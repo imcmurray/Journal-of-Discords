@@ -18,9 +18,10 @@ Conduct thorough analysis of flagged sermons to:
 
 To run this agent, you need:
 1. **A flagged sermon** from Research Agent output
-2. **Full sermon text** from JoD source
-3. **Relevant topic files** for cross-reference
-4. **The sermon analysis template** (`templates/sermon-analysis.md`)
+2. **Full sermon text** from local source: `sources/html/vol-XX/[sermon].html`
+3. **Page numbers** from `sources/html/vol-XX/toc.html`
+4. **Relevant topic files** for cross-reference
+5. **The sermon analysis template** (`templates/sermon-analysis.md`)
 
 ---
 

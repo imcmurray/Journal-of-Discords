@@ -21,7 +21,8 @@ To run this agent, you need:
 1. **Song candidate file** from `songs/candidates/`
 2. **Draft lyrics** with basic source mapping
 3. **Original sermon analysis** for reference
-4. **Access to primary sources** for verification
+4. **Access to local source files** for verification: `sources/html/vol-XX/`
+5. **Page numbers** from `sources/html/vol-XX/toc.html`
 
 ---
 

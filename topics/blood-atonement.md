@@ -61,19 +61,58 @@ Sins mentioned as potentially requiring blood atonement:
 - Adultery
 - Murder
 - Apostasy
-- Interracial marriage
+- **Interracial marriage** (see JoD 10:110, March 8, 1863)
 - Theft (in some formulations)
 - Covenant breaking
+
+**Interracial Marriage as Blood Atonement Sin:**
+JoD 10:110 — Brigham Young declares "the law of God" is "death on the spot" for white men who "mix blood with the seed of Cain." This directly connects racial teachings to blood atonement theology. The death penalty language is identical to blood atonement rhetoric.
+
+See full analysis: `volumes/vol-10/findings/1863-03-08-death-on-spot.md`
 
 **Research Needed:**
 - [ ] Document each sin and its specific source
 - [ ] Note variations across speakers and sermons
+- [X] Interracial marriage documented (JoD 10:110)
+
+---
+
+### Early Instance: Howard Egan Murder Trial (1851)
+
+#### Finding 4: "Must Die — Nearest Relative Must Kill"
+**Source:** JoD 1:95-100 (October 1851)
+
+> "The man who seduces his neighbor's wife must die, and her nearest relative must kill him!"
+> — George A. Smith (LDS Apostle, acting as defense attorney)
+
+> "if Howard Egan had not killed that man, he would have been damned by the community for ever"
+
+> "the justified killing of a hyena"
+
+> "the avenger upon his path, ready to pounce upon him at any moment to take vengeance"
+
+**Category:** BLOOD-ATONEMENT, MORAL-PROBLEM
+
+**Context:**
+- George A. Smith defended Howard Egan for murdering James Monroe (who seduced Egan's wife)
+- Egan was ACQUITTED by a Mormon jury
+- Published in official JoD
+- Predates Mormon Reformation by 5 years — shows doctrine was already present
+
+**Why It Matters:**
+- Earliest documented blood atonement application in JoD
+- Murder framed as religious DUTY
+- Failure to kill = "damned by the community"
+- The jury's acquittal endorsed this reasoning
+- An Apostle defended murder as "justified"
+
+**Song Status:** 🔲 **High Priority Candidate**
 
 ---
 
 ### Other Speakers
 
-#### Finding 4: Jedediah M. Grant
+#### Finding 5: Jedediah M. Grant
 **Source:** [Need specific JoD references]
 
 Jedediah Grant (Second Counselor in First Presidency) was particularly vocal about blood atonement during the Reformation.
@@ -84,7 +123,7 @@ Jedediah Grant (Second Counselor in First Presidency) was particularly vocal abo
 
 ---
 
-#### Finding 5: Heber C. Kimball
+#### Finding 6: Heber C. Kimball
 **Source:** [Need specific JoD references]
 
 **Research Needed:**
@@ -118,8 +157,10 @@ Jedediah Grant (Second Counselor in First Presidency) was particularly vocal abo
 ## Cross-Reference Connections
 
 ### Racial Teachings Connection
-- Interracial marriage listed as blood atonement sin
-- See JoD 10:110
+- **Interracial marriage listed as blood atonement sin**
+- **JoD 10:110** — "Death on the spot" for mixing blood with "seed of Cain"
+- Death penalty language identical to blood atonement rhetoric
+- Full analysis: `volumes/vol-10/findings/1863-03-08-death-on-spot.md`
 - Connects to `topics/race.md`
 
 ### Authority Connection

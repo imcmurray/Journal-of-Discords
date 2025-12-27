@@ -19,7 +19,7 @@ Systematically survey Journal of Discourses volumes to identify sermons containi
 
 To run this agent, you need:
 1. **Target volume number** (1-26)
-2. **Access to JoD text** (https://jod.mrm.org/)
+2. **Access to local source files** (`sources/html/vol-XX/`)
 3. **Existing topic files** (for cross-reference)
 
 ---
@@ -37,9 +37,22 @@ This agent produces:
 
 ### Step 1: Access the Volume
 
-Go to https://jod.mrm.org/[volume_number]
+Open the local source files:
+```
+sources/html/vol-XX/
+```
+Example: `sources/html/vol-01/` for Volume 1
 
-Example: https://jod.mrm.org/1 for Volume 1
+**First, read `toc.html`** — this contains:
+- Complete list of all sermons
+- Speaker for each sermon
+- **Page numbers** for citations (only place they appear!)
+
+Example TOC entry:
+```
+Self-Government...Adam, Our Father and Our God, by Brigham Young (46–53)
+```
+This tells you: file `self_government.html`, speaker Brigham Young, pages 46-53.
 
 ### Step 2: Review Table of Contents
 
@@ -179,11 +192,92 @@ Update `index.md`:
 
 ---
 
+## Batch Mode
+
+When processing large volumes (40+ sermons) or when called by the Producer Agent, use batch mode to break the work into manageable chunks.
+
+### Batch Sizing
+
+| Volume Size | Recommended Batches | Sermons per Batch |
+|-------------|---------------------|-------------------|
+| ~30 sermons | 2-3 | 10-15 |
+| ~55 sermons | 4 | 13-14 |
+| ~70 sermons | 5 | 14 |
+| ~100 sermons | 7-8 | 12-14 |
+
+**Default: 10-15 sermons per batch** unless otherwise specified.
+
+### Batch Scoping
+
+When given a batch assignment:
+```
+"Survey Volume 1, Batch 2: Sermons 16-30"
+```
+
+1. Focus only on sermons in the specified range
+2. Apply all standard workflow steps to that range
+3. Note batch boundaries in output
+
+### Batch Tracking
+
+In the volume summary file, add a batch progress table:
+
+```markdown
+## Batch Progress
+
+| Batch | Sermon Range | Status | Flagged | HIGH | Date |
+|-------|--------------|--------|---------|------|------|
+| 1 | 1-15 | Complete | 3 | 2 | 2024-01-15 |
+| 2 | 16-30 | Complete | 2 | 1 | 2024-01-15 |
+| 3 | 31-45 | In Progress | - | - | - |
+| 4 | 46-54 | Not Started | - | - | - |
+```
+
+### Batch Output Format
+
+For each batch, report:
+
+```markdown
+### Batch [N] Complete: Sermons [start]-[end]
+
+**Flagged:** [count] ([HIGH count] HIGH, [MEDIUM count] MEDIUM, [LOW count] LOW)
+
+**HIGH Priority Items:**
+1. JoD X:pp — [Brief description] — [Topic]
+2. JoD X:pp — [Brief description] — [Topic]
+
+**MEDIUM Priority Items:**
+1. JoD X:pp — [Brief description]
+
+**Notes:** [Any observations from this batch]
+
+**Resume Point:** Sermon [next number] / Batch [next batch]
+```
+
+### Batch Handoff
+
+After each batch:
+1. Update volume summary with batch status
+2. Log flagged sermons with batch number
+3. Note exact resume point (next sermon number)
+4. Report to Producer Agent (if running under orchestration)
+5. HIGH priority items are immediately available for Analysis Agent
+
+### Partial Volume State
+
+If a session ends mid-volume:
+- Mark volume as 🟡 Partial in index.md
+- Note which batches are complete
+- Note exact resume point
+- This enables seamless continuation
+
+---
+
 ## Search Strategy
 
 ### Efficient Keyword Searching
 
-Use browser Ctrl+F or site search for:
+Use text search (grep) or read files directly. Search the HTML files for:
 
 **Cosmology:**
 ```
@@ -263,6 +357,30 @@ Recommend quick survey first, then return for thorough review of high-priority v
 
 ---
 
+## Relationship to Discovery Agent
+
+The Research Agent and Discovery Agent work **together**:
+
+| Agent | Approach | Speed | Catches |
+|-------|----------|-------|---------|
+| Research Agent | Keyword scan | Fast (10-15 sermons/batch) | Known categories |
+| Discovery Agent | Full read | Slower (5-8 sermons/batch) | Anything unusual |
+
+**When to defer to Discovery Agent:**
+- Content seems odd but doesn't fit known triggers
+- Tone or attitude is notable but no specific keywords
+- Something "feels off" but you can't categorize it
+- Borderline cases where priority is unclear
+
+**Flag for Discovery with:**
+```markdown
+**Discovery Flag:** [Sermon title] — [Brief note on why]
+```
+
+Discovery Agent will do a full read and catch what keyword scans miss.
+
+---
+
 ## Handoff
 
 After completing a volume survey:
@@ -270,9 +388,11 @@ After completing a volume survey:
 1. **Commit the summary file**
 2. **Update index.md**
 3. **Flag highest priority sermons for Analysis Agent**
-4. **Note any cross-volume connections discovered**
+4. **Note any Discovery flags** for Discovery Agent follow-up
+5. **Note any cross-volume connections discovered**
 
-The Analysis Agent will then deep-dive on individual flagged sermons.
+The Analysis Agent will deep-dive on individual flagged sermons.
+The Discovery Agent will do thorough reads to catch unusual content.
 
 ---
 
