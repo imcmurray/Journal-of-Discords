@@ -21,16 +21,23 @@ The goal is to create historically accurate songs that let the prophets speak fo
 - ✅ Repository structure created
 - ✅ All templates created
 - ✅ Core topic files started (cosmology, adam-god, blood-atonement, race, polygamy)
-- ✅ Volume 13 partial analysis (one sermon)
-- ✅ One song completed: "Who Are the Real Fanatics?" (JoD 13:268-274)
+- ✅ All 26 volumes surveyed (Research Phase)
+- ✅ 26 Discovery checklists created
+- ✅ 9 Crown Jewel analyses complete
+- ✅ **9 Songs completed** (Song Development Phase)
+- ✅ Producer Agent for autonomous orchestration
+- ✅ Session Logger for progress documentation
 
 ### In Progress
-- 🔄 Volume 1 survey (priority: contains Adam-God doctrine at JoD 1:50)
+- 🔄 Discovery Agent deep-reads on remaining volumes
+- 🔄 Second wave of song candidates (50+ identified)
 
 ### Not Started
-- ⬜ Volumes 2-12, 14-26 surveys
-- ⬜ Systematic sermon analysis
-- ⬜ Song development pipeline
+- ⬜ Blood atonement songs (JoD 4:53-54, etc.)
+- ⬜ Adam-God songs (JoD 1:50, etc.)
+
+### Ready to Run
+Use `"Start Second Wave"` to develop next batch of song candidates.
 
 ---
 
@@ -42,12 +49,12 @@ The goal is to create historically accurate songs that let the prophets speak fo
 3. Check `index.md` for current status and priorities
 4. Use agents in `agents/` folder for systematic processing
 
-### Priority Order
-1. **Volume 1** — Contains Adam-God (JoD 1:50), foundational material
-2. **Volume 4** — Contains blood atonement (JoD 4:53-54, 219-220)
-3. **Volume 10** — Contains racial teachings (JoD 10:110)
-4. **Volume 13** — Complete the survey (we only did one sermon)
-5. **Remaining volumes** — Systematic processing
+### Priority Order (Next Wave)
+1. **Blood atonement** — JoD 4:53-54, 219-220 (highest priority unfinished topic)
+2. **Adam-God** — JoD 1:50 (foundational doctrine, now disavowed)
+3. **Gender/Authority** — JoD 5:82-86, 5:285-292 (science denial, women subjugation)
+4. **Jesus Married** — JoD 2:82 (Orson Hyde claims Jesus was married)
+5. **Discovery Agents** — Continue deep-reads on flagged volumes
 
 ---
 
@@ -59,21 +66,42 @@ This project uses specialized agents for different tasks. See `agents/` folder.
 
 | Agent | File | Purpose |
 |-------|------|---------|
-| Research Agent | `agents/research-agent.md` | Survey volumes, identify problematic content |
+| **Producer Agent** | `agents/producer-agent.md` | **Orchestrates all agents, runs autonomously** |
+| Session Logger | `agents/session-logger-agent.md` | Documents progress to session logs |
+| Research Agent | `agents/research-agent.md` | Survey volumes, identify known categories |
+| **Discovery Agent** | `agents/discovery-agent.md` | **Full read for anything unusual** |
 | Analysis Agent | `agents/analysis-agent.md` | Deep-dive on flagged sermons |
 | Song Dev Agent | `agents/song-development-agent.md` | Develop findings into song candidates |
 | Song Final Agent | `agents/song-finalization-agent.md` | Complete songs with full documentation |
 | Cross-Ref Agent | `agents/cross-reference-agent.md` | Build connections across corpus |
 
-### Using Agents
+### Using the Producer Agent (Recommended)
 
-To invoke an agent, read its instruction file and follow the workflow. Each agent has:
+The Producer Agent orchestrates the entire pipeline. To start a session:
+
+```
+"Run the Producer on Volume 1"
+"Continue where we left off"
+"Process the next 2 batches of Volume 4"
+```
+
+The Producer will:
+- Survey volumes in 10-15 sermon batches
+- Automatically analyze HIGH priority sermons
+- Trigger song development for ★★★★★ findings
+- Run cross-referencing every 5-10 analyses
+- Log everything to `logs/sessions/`
+- Only pause for critical blockers
+
+### Using Individual Agents
+
+To invoke a specific agent, read its instruction file and follow the workflow. Each agent has:
 - A specific purpose
 - Input requirements
 - Output specifications
 - Step-by-step instructions
 
-Example workflow:
+Manual workflow (without Producer):
 ```
 1. Run Research Agent on Volume 1
 2. Run Analysis Agent on flagged sermons
@@ -97,18 +125,55 @@ Example workflow:
 | `volumes/` | Volume-by-volume analysis |
 | `songs/` | Song development pipeline |
 | `agents/` | Agent instruction files |
+| `logs/sessions/` | Session logs from Producer runs |
+| `sources/html/` | Local JoD source files (extracted from EPUBs) |
+| `sources/epubs/` | Original EPUB files (backup) |
+| `scripts/` | Utility scripts (e.g., extract-sources.sh) |
 | `references/` | Supporting materials |
 
 ---
 
 ## Primary Source Access
 
-The Journal of Discourses is available at:
-- **MRM**: https://jod.mrm.org/ (recommended - clean, searchable)
+### Local Sources (Primary)
+
+Source files are stored locally in `sources/html/`:
+
+```
+sources/html/vol-XX/
+├── toc.html              # Table of contents with PAGE NUMBERS
+├── self_government.html  # Individual sermon files
+├── celestial_marriage.html
+└── ...
+```
+
+**Finding a Sermon:**
+1. Open `sources/html/vol-XX/toc.html`
+2. Find sermon — format: `<a href="file.html">Title</a>, by Speaker (pages)`
+3. Open the linked HTML file for content
+
+**Page Numbers:** Only in `toc.html`, not in sermon files. Example:
+```
+Self-Government...Adam, Our Father and Our God, by Brigham Young (46–53)
+```
+This sermon covers JoD 1:46-53.
+
+**HTML Structure:**
+- `<h1>` — Sermon title
+- `<h2>` — Speaker name
+- `<div class="intro">` — Date and location
+- `<p>` — Sermon text
+
+### Web Sources (Backup)
+
+If local files unavailable:
+- **MRM**: https://jod.mrm.org/ (searchable)
 - **Archive.org**: Original scans
 - **BYU Library**: https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3
 
-When processing, always cite: `JoD Volume:Page`
+### Citation Format
+
+Always cite: `JoD Volume:Page` (e.g., `JoD 1:50`)
 
 ---
 
