@@ -4,7 +4,7 @@ speakers: ["Brigham Young"]
 topics: ["Race", "Interracial Marriage"]
 jod_citation: "JoD 10:110"
 sermon_date: "1863-03-08"
-suno_url: ""
+suno_url: "https://suno.com/embed/RP8wWZ8446njMf1z"
 style: "Dark spiritual, protest blues, somber gospel"
 caption: "In 1863, Brigham Young declared that interracial marriage was punishable by 'death on the spot' under God's eternal law. In 2013, the LDS Church disavowed this teaching."
 weight: 1
