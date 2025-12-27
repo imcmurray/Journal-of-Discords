@@ -1,5 +1,5 @@
 # Use official Hugo extended image with recent version
-FROM hugomods/hugo:exts-0.140.1 AS builder
+FROM hugomods/hugo:exts-0.147.0 AS builder
 
 WORKDIR /src
 COPY . .
