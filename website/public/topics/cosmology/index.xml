@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cosmology on Journal of Discords</title><link>https://journalofdiscords.com/topics/cosmology/</link><description>Recent content in Cosmology on Journal of Discords</description><generator>Hugo -- 0.153.2</generator><language>en-us</language><atom:link href="https://journalofdiscords.com/topics/cosmology/index.xml" rel="self" type="application/rss+xml"/><item><title>As God Once Was</title><link>https://journalofdiscords.com/songs/king-follett/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/king-follett/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cosmology on Journal of Discords</title>
+    <link>http://localhost:1313/topics/cosmology/</link>
+    <description>Recent content in Cosmology on Journal of Discords</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/topics/cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>As God Once Was</title>
+      <link>http://localhost:1313/songs/king-follett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/songs/king-follett/</guid>
+      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;God himself was once as we are now, and is an exalted man, and sits enthroned in yonder heavens! That is the great secret. If the veil were rent today, and the great God who holds this world in its orbit, and who upholds all worlds and all things by His power, was to make himself visible—I say, if you were to see him today, you would see him like a man in form—like yourselves in all the person, image, and very form as a man.&amp;rdquo;
-— Joseph Smith, JoD 6:3 (April 7, 1844)&lt;/p&gt;</description></item></channel></rss>
+— Joseph Smith, JoD 6:3 (April 7, 1844)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
