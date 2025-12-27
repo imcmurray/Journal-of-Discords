@@ -1,8 +1,8 @@
 [phases.setup]
-nixPkgs = ["hugo", "nodejs"]
+nixPkgs = ["hugo", "nodejs", "git"]
 
 [phases.build]
-cmds = ["hugo --minify"]
+cmds = ["git submodule update --init --recursive", "hugo --minify"]
 
 [start]
 cmd = "npx serve public -l $PORT"
