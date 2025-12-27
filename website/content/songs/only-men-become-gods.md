@@ -1,6 +1,6 @@
 ---
 title: "The Only Men Who Become Gods"
-speaker: "Brigham Young"
+speakers: ["Brigham Young"]
 topics: ["Polygamy", "Exaltation", "Failed Prophecy"]
 jod_citation: "JoD 11:269"
 sermon_date: "1866-08-19"

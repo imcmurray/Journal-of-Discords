@@ -1,6 +1,6 @@
 ---
 title: "We Cannot Tone It Down"
-speaker: "John Taylor"
+speakers: ["John Taylor"]
 topics: ["Polygamy", "Failed Prophecy"]
 jod_citation: "JoD 25:309-310"
 sermon_date: "1884-10-06"

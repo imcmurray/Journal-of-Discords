@@ -1,6 +1,6 @@
 ---
 title: "As God Once Was"
-speaker: "Joseph Smith"
+speakers: ["Joseph Smith"]
 topics: ["Cosmology", "Apotheosis"]
 jod_citation: "JoD 6:1-11"
 sermon_date: "1844-04-07"

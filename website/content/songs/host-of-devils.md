@@ -1,6 +1,6 @@
 ---
 title: "A Host of Devils Will Be Needed"
-speaker: "Brigham Young"
+speakers: ["Brigham Young"]
 topics: ["Temple", "Bizarre Theology"]
 jod_citation: "JoD 8:181-182"
 sermon_date: "1860-09-09"

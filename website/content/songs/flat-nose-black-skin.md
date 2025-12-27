@@ -1,6 +1,6 @@
 ---
 title: "Flat Nose and Black Skin"
-speaker: "Brigham Young"
+speakers: ["Brigham Young"]
 topics: ["Race", "Priesthood Ban"]
 jod_citation: "JoD 7:290-291"
 sermon_date: "1859-10-09"

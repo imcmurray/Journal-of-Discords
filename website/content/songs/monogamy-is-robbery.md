@@ -1,6 +1,6 @@
 ---
 title: "Monogamy Is Robbery"
-speaker: "Brigham Young"
+speakers: ["Brigham Young"]
 topics: ["Polygamy", "Marriage"]
 jod_citation: "JoD 9:322-323"
 sermon_date: "1862-07-06"

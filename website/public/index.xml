@@ -1,26 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Journal of Discords</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Journal of Discords</description>
-    <generator>Hugo -- 0.153.2</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Death on the Spot</title>
-      <link>http://localhost:1313/songs/death-on-the-spot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/death-on-the-spot/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Journal of Discords</title><link>https://journalofdiscords.com/</link><description>Recent content on Journal of Discords</description><generator>Hugo -- 0.153.2</generator><language>en-us</language><atom:link href="https://journalofdiscords.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Death on the Spot</title><link>https://journalofdiscords.com/songs/death-on-the-spot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/death-on-the-spot/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Shall I tell you the law of God in regard to the African race? If the white man who belongs to the chosen seed mixes his blood with the seed of Cain, the penalty, under the law of God, is death on the spot. This will always be so.&amp;rdquo;
 — Brigham Young, JoD 10:110 (March 8, 1863)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;lyrics&#34;&gt;Lyrics&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Intro - Somber piano, slow tempo]
-
+&lt;h2 id="lyrics"&gt;Lyrics&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;[Intro - Somber piano, slow tempo]
 [Verse 1 - Spoken word style, building into melody]
 March eighth, eighteen sixty-three
 Tabernacle, Salt Lake City
@@ -28,7 +13,6 @@ Prophet stands before the congregation
 &amp;#34;Shall I tell you,&amp;#34; he begins
 &amp;#34;Shall I tell you the law of God?&amp;#34;
 Everyone leans in to listen
-
 [Verse 2 - Melody establishes, minor key]
 &amp;#34;In regard to the African race&amp;#34;
 His voice is steady, certain, clear
@@ -36,7 +20,6 @@ His voice is steady, certain, clear
 Mixes his blood with the seed of Cain&amp;#34;
 He pauses for the weight to land
 &amp;#34;The penalty, under the law of God...&amp;#34;
-
 [Chorus - Full, powerful, deliberate]
 Death on the spot
 Death on the spot
@@ -45,7 +28,6 @@ This will always be so
 Always be so
 Death on the spot
 This will always be so
-
 [Verse 3 - Building intensity]
 Civil War is raging, nation torn
 &amp;#34;I&amp;#39;m no abolitionist,&amp;#34; he claims
@@ -53,9 +35,7 @@ Civil War is raging, nation torn
 Standing in the middle ground
 Then declares that love across the line
 Deserves death by divine command
-
 [Chorus]
-
 [Bridge - Tempo slows, piano solo, then spoken/sung]
 One hundred and fifty years pass
 December, two thousand thirteen
@@ -64,7 +44,6 @@ The church releases a quiet statement
 &amp;#34;That mixed-race marriages are a sin&amp;#34;
 The law of God...
 Was just a theory?
-
 [Verse 4 - Quiet, testimonial]
 Today in temples, all across the land
 Interracial couples kneel and pray
@@ -72,7 +51,6 @@ Sealed for time and all eternity
 By the same church that declared
 Their love deserved death on the spot
 Under the eternal law of God
-
 [Final Chorus - Raw, powerful]
 Death on the spot
 He said death on the spot
@@ -82,7 +60,6 @@ But always meant
 One hundred and fifty years
 Till it was too embarrassing
 To keep saying so
-
 [Outro - Piano fading, spoken]
 &amp;#34;This will always be so&amp;#34;
 (Repeat, growing quieter)
@@ -90,35 +67,25 @@ To keep saying so
 &amp;#34;This will always...&amp;#34;
 [Silence]
 &lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id=&#34;historical-context&#34;&gt;Historical Context&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The Setting:&lt;/strong&gt; March 8, 1863 — Salt Lake Tabernacle. The Civil War is raging. Lincoln&amp;rsquo;s Emancipation Proclamation was issued just two months prior. The nation is torn over slavery, race, and freedom.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flat Nose and Black Skin</title>
-      <link>http://localhost:1313/songs/flat-nose-black-skin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/flat-nose-black-skin/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+&lt;h2 id="historical-context"&gt;Historical Context&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Setting:&lt;/strong&gt; March 8, 1863 — Salt Lake Tabernacle. The Civil War is raging. Lincoln&amp;rsquo;s Emancipation Proclamation was issued just two months prior. The nation is torn over slavery, race, and freedom.&lt;/p&gt;</description></item><item><title>Flat Nose and Black Skin</title><link>https://journalofdiscords.com/songs/flat-nose-black-skin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/flat-nose-black-skin/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;You see some classes of the human family that are black, uncouth, un-comely, disagreeable and low in their habits, wild, and seemingly deprived of nearly all the blessings of the intelligence that is generally bestowed upon mankind&amp;hellip; The Lord put a mark upon him, which is the flat nose and black skin.&amp;rdquo;
 — Brigham Young, JoD 7:290-291 (October 9, 1859)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;lyrics&#34;&gt;Lyrics&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Intro: Somber acoustic guitar, fingerpicked, haunting]
-
+&lt;h2 id="lyrics"&gt;Lyrics&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;[Intro: Somber acoustic guitar, fingerpicked, haunting]
 [Verse 1: Speak-sing, testimony voice]
 October morning, eighteen fifty-nine
 Brigham stood in the Tabernacle, said he&amp;#39;d gather truth divine
 &amp;#34;God has created of one blood,&amp;#34; he told the gathered crowd
 &amp;#34;All the nations, black and white, copper-colored&amp;#34; — spoke it loud
-
 [Pre-Chorus: Building]
 But then he taught intelligence
 And what the Lord had shown
 About the classes of the human race
 And curses set in stone
-
 [Chorus: Full voice, letting horror speak]
 Flat nose and black skin
 That&amp;#39;s the mark the Lord put on
@@ -128,264 +95,157 @@ Flat nose and black skin
 Deprived of blessings from above
 This is what the prophet taught
 In the name of God&amp;#39;s own love
-
 [Verse 2: Measured, each word weighted]
 &amp;#34;Cain slew his brother Abel, committed odious crime
 He&amp;#39;ll be cursed the longest of any child of Adam&amp;#39;s line
 The Lord put a mark upon him&amp;#34; — Brigham made it plain
 The flat nose and the black skin is the curse upon that stain
-
 [Bridge: Sparse, haunting, space between lines]
 One hundred nineteen years
 The priesthood was denied
 One hundred nineteen years
 While Black Saints testified
-
 Children couldn&amp;#39;t be sealed
 To mothers and to fathers
 One hundred nineteen years
 Of theological slaughter
-
 [Verse 3: The reckoning]
 Nineteen seventy-eight, June
 The revelation came
 Black members could hold the priesthood now
 But no apology for shame
-
 Twenty thirteen, an essay
 Disavows the theories taught
 &amp;#34;Black skin is not divine disfavor&amp;#34;
 But what about what it wrought?
-
 [Final Chorus: Quieter, bearing witness]
 Flat nose and black skin
 That&amp;#39;s what Brigham Young declared
 The mark of Cain, the curse of God
 One hundred nineteen years they bared
-
 The church disavows it now
 Says racism in any form
 But for a century and more
 This teaching was the norm
-
 [Outro: Instrumental, fading, unresolved]
 &lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id=&#34;historical-context&#34;&gt;Historical Context&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The Setting:&lt;/strong&gt; October 9, 1859, in the Tabernacle at Great Salt Lake City. Two years before the Civil War began.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Devil&#39;s Representation</title>
-      <link>http://localhost:1313/songs/devils-representation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/devils-representation/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+&lt;h2 id="historical-context"&gt;Historical Context&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Setting:&lt;/strong&gt; October 9, 1859, in the Tabernacle at Great Salt Lake City. Two years before the Civil War began.&lt;/p&gt;</description></item><item><title>Devil's Representation</title><link>https://journalofdiscords.com/songs/devils-representation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/devils-representation/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Why is it, in fact, that we should have a devil? Why did not the Lord kill him long ago?&amp;hellip; He needed the devil and a great many of those who do his bidding just to keep men straight, that we may learn to place our dependence upon God, and trust in Him, and to observe his laws and keep his commandments. When he destroyed the inhabitants of the antediluvian world, he suffered a descendant of Cain to come through the flood in order that he might be properly represented upon the earth.&amp;rdquo;
-— John Taylor, JoD 22:304 (August 28, 1881)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>We Cannot Tone It Down</title>
-      <link>http://localhost:1313/songs/cannot-tone-down/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/cannot-tone-down/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+— John Taylor, JoD 22:304 (August 28, 1881)&lt;/p&gt;</description></item><item><title>We Cannot Tone It Down</title><link>https://journalofdiscords.com/songs/cannot-tone-down/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/cannot-tone-down/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;God has given us a revelation in regard to celestial marriage. I did not make it&amp;hellip; They would like us to tone it down, change it, and make it applicable to the notions of the day. This we cannot do; nor can we interfere with the commandments of God to meet the persuasions of men&amp;hellip; We have to stand by our covenants&amp;hellip; Living, we will proclaim them. Dying, we will be true to them.&amp;rdquo;
-— John Taylor, JoD 25:309-310 (October 6-7, 1884)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monogamy Is Robbery</title>
-      <link>http://localhost:1313/songs/monogamy-is-robbery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/monogamy-is-robbery/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+— John Taylor, JoD 25:309-310 (October 6-7, 1884)&lt;/p&gt;</description></item><item><title>Monogamy Is Robbery</title><link>https://journalofdiscords.com/songs/monogamy-is-robbery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/monogamy-is-robbery/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Monogamy, or restrictions by law to one wife, is no part of the economy of Heaven among men. Such a system was commenced by the founders of the Roman Empire&amp;hellip; Rome became combated by a barbarous and warlike people, who had been nourished in adultery from their infancy. They knew not their fathers, for they were the sons of a multitude who all ranged the forest, destitute of any order save in their predatory expeditions against their neighbours. They kidnapped their wives from the Sabine nation. Thus monogamy originated in crime, and has been sustained by crime&amp;hellip; This monogamic order of marriage, so esteemed by modern Christians as a holy sacrament and divine institution, is nothing but a system established by a set of robbers.&amp;rdquo;
-— Brigham Young, JoD 9:322-323 (July 6, 1862)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Only Men Who Become Gods</title>
-      <link>http://localhost:1313/songs/only-men-become-gods/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/only-men-become-gods/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+— Brigham Young, JoD 9:322-323 (July 6, 1862)&lt;/p&gt;</description></item><item><title>The Only Men Who Become Gods</title><link>https://journalofdiscords.com/songs/only-men-become-gods/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/only-men-become-gods/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;The only men who become Gods, even the Sons of God, are those who enter into polygamy. Others attain unto a glory and may even be permitted to come into the presence of the Father and the Son; but they cannot reign as kings in glory, because they had blessings offered unto them, and they refused to accept them.&amp;rdquo;
 — Brigham Young, JoD 11:269 (August 19, 1866)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;the-failed-prophecy&#34;&gt;The Failed Prophecy&lt;/h2&gt;
+&lt;h2 id="the-failed-prophecy"&gt;The Failed Prophecy&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;If we do not embrace that principle soon, the keys will be turned against us. If we do not keep the same law that our Heavenly Father has kept, we cannot go with him&amp;hellip; I wish here to say to the Elders of Israel, and to all the members of this Church and kingdom, that it is in the hearts of many of them to wish that the doctrine of polygamy was not taught and practiced by us&amp;hellip; It is the word of the Lord, and I wish to say to you, and all the world, that if you desire with all your hearts to obtain the blessings which Abraham obtained, you will be polygamists at least in your faith, or you will come short of enjoying the salvation and the glory which Abraham has obtained.&amp;rdquo;
-— Brigham Young, JoD 11:269&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>As God Once Was</title>
-      <link>http://localhost:1313/songs/king-follett/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/king-follett/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+— Brigham Young, JoD 11:269&lt;/p&gt;</description></item><item><title>As God Once Was</title><link>https://journalofdiscords.com/songs/king-follett/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/king-follett/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;God himself was once as we are now, and is an exalted man, and sits enthroned in yonder heavens! That is the great secret. If the veil were rent today, and the great God who holds this world in its orbit, and who upholds all worlds and all things by His power, was to make himself visible—I say, if you were to see him today, you would see him like a man in form—like yourselves in all the person, image, and very form as a man.&amp;rdquo;
-— Joseph Smith, JoD 6:3 (April 7, 1844)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Host of Devils Will Be Needed</title>
-      <link>http://localhost:1313/songs/host-of-devils/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/host-of-devils/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+— Joseph Smith, JoD 6:3 (April 7, 1844)&lt;/p&gt;</description></item><item><title>A Host of Devils Will Be Needed</title><link>https://journalofdiscords.com/songs/host-of-devils/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/host-of-devils/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Do you query why we give endowments to A., B., and C.? It is to make devils of those who will deny the faith, for that is also necessary, as a host of devils will be needed. It is for the exaltation of some and the downfall of others.&amp;rdquo;
 — Brigham Young, JoD 8:181-182 (September 9, 1860)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;lyrics&#34;&gt;Lyrics&lt;/h2&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Intro - Organ and Accordion, Minor Key Waltz]
-
+&lt;h2 id="lyrics"&gt;Lyrics&lt;/h2&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;[Intro - Organ and Accordion, Minor Key Waltz]
 [Verse 1 - Quiet, Reverent]
 They tell you in the temple prep class
 About sacred covenants that&amp;#39;ll help you pass
 Through the veil to exaltation&amp;#39;s door
 Eternal families, celestial law
-
 White clothes and promises of glory
 But Brigham Young told another story
 September 1860, he explained
 The temple&amp;#39;s darker purpose, plainly named
-
 [Pre-Chorus - Building]
 &amp;#34;Do you query why we give endowments
 To A., B., and C.?&amp;#34;
 Let the prophet tell you what they&amp;#39;re really for
 Listen carefully...
-
 [Chorus - Explosive, Theatrical]
 &amp;#34;It is to make devils of those who will deny the faith
 For that is also necessary&amp;#34; (that&amp;#39;s what Brigham says!)
 &amp;#34;As a host of devils will be needed&amp;#34;
 Sacred ordinances with a purpose dark and strange
-
 A host of devils will be needed
 And the temple will provide
 For the exaltation of some
 And the downfall of those who tried
-
 [Verse 2]
 Every active member knows someone
 Who went through the temple, then was done
 Walked away, left the faith behind
 Did the endowment seal their bind?
-
 Were those sacred ordinances given
 Not just for the path to heaven
 But to manufacture the enemy?
 &amp;#34;A host of devils will be needed&amp;#34;
-
 [Bridge - Spoken over sparse music]
 Modern temple preparation teaches:
 • Sacred covenants
 • Eternal families
 • Celestial glory
-
 It does not mention:
 • Making devils of the unfaithful
 • Manufacturing the enemy
 • &amp;#34;The downfall of others&amp;#34;
-
 [Final Chorus - Darkly triumphant]
 A host of devils will be needed
 The prophet told us plain
 The temple serves a double purpose
 Exaltation and the stain
-
 Of those who take the covenants
 Then walk a different road
 Were they always meant to fall?
 Did Brigham Young forebode?
-
 [Outro - Carnival organ, fading]
 A host of devils... will be needed...
 (Laughter fading into silence)
 &lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;h2 id=&#34;historical-context&#34;&gt;Historical Context&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The Setting:&lt;/strong&gt; September 9, 1860 — A regular Sunday sermon in Salt Lake City.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Never Given to Another People</title>
-      <link>http://localhost:1313/songs/never-another-people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/songs/never-another-people/</guid>
-      <description>&lt;h2 id=&#34;the-quote&#34;&gt;The Quote&lt;/h2&gt;
+&lt;h2 id="historical-context"&gt;Historical Context&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The Setting:&lt;/strong&gt; September 9, 1860 — A regular Sunday sermon in Salt Lake City.&lt;/p&gt;</description></item><item><title>Never Given to Another People</title><link>https://journalofdiscords.com/songs/never-another-people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/songs/never-another-people/</guid><description>&lt;h2 id="the-quote"&gt;The Quote&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Looking at affairs as they naturally appear, it might be considered, and we might speak of it as vanity for any man to say, as Paul did, that this work shall never be given to another people, and that it shall stand forever&amp;hellip; We have the strongest assurance that it is possible for a man to have that this work will stand forever, for we have it from God himself.&amp;rdquo;
-— George Q. Cannon, JoD 25:271 (August 31, 1884)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About This Project</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;what-is-the-journal-of-discourses&#34;&gt;What Is the Journal of Discourses?&lt;/h2&gt;
+— George Q. Cannon, JoD 25:271 (August 31, 1884)&lt;/p&gt;</description></item><item><title>About This Project</title><link>https://journalofdiscords.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/about/</guid><description>&lt;h2 id="what-is-the-journal-of-discourses"&gt;What Is the Journal of Discourses?&lt;/h2&gt;
 &lt;p&gt;The Journal of Discourses is a 26-volume collection of over 1,500 sermons delivered by early LDS leaders between 1854 and 1886.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Distribution:&lt;/strong&gt; Published in Liverpool, England and sold worldwide as a &lt;strong&gt;subscription publication&lt;/strong&gt;—a semi-monthly periodical members purchased to receive prophetic sermons unavailable through the Deseret News.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Official Endorsement:&lt;/strong&gt; The First Presidency (Brigham Young, Heber C. Kimball, and Willard Richards) issued a letter dated June 1, 1853 encouraging all Saints to purchase the publication. In 1861, apostle George Q. Cannon wrote in the preface to Volume 8:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frequently Asked Questions</title>
-      <link>http://localhost:1313/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/faq/</guid>
-      <description>&lt;h2 id=&#34;what-is-this-project&#34;&gt;What is this project?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Official Endorsement:&lt;/strong&gt; The First Presidency (Brigham Young, Heber C. Kimball, and Willard Richards) issued a letter dated June 1, 1853 encouraging all Saints to purchase the publication. In 1861, apostle George Q. Cannon wrote in the preface to Volume 8:&lt;/p&gt;</description></item><item><title>Frequently Asked Questions</title><link>https://journalofdiscords.com/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/faq/</guid><description>&lt;h2 id="what-is-this-project"&gt;What is this project?&lt;/h2&gt;
 &lt;p&gt;Journal of Discords is an educational and documentary project that examines historical teachings from the Journal of Discourses (1854-1886), a 26-volume collection of sermons by early leaders of The Church of Jesus Christ of Latter-day Saints.&lt;/p&gt;
 &lt;p&gt;We document statements that have been scientifically falsified, doctrinally disavowed, self-contradicting, or represent failed prophecies—and transform these findings into historically accurate songs that let the prophets speak for themselves.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;is-this-anti-mormon&#34;&gt;Is this anti-Mormon?&lt;/h2&gt;
-&lt;p&gt;This project is not about attacking individuals or their faith. It is about historical accuracy and accountability.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Methodology</title>
-      <link>http://localhost:1313/methodology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/methodology/</guid>
-      <description>&lt;p&gt;This project follows a rigorous methodology to ensure accuracy, fairness, and intellectual honesty. We document our approach so readers can evaluate our work.&lt;/p&gt;
+&lt;h2 id="is-this-anti-mormon"&gt;Is this anti-Mormon?&lt;/h2&gt;
+&lt;p&gt;This project is not about attacking individuals or their faith. It is about historical accuracy and accountability.&lt;/p&gt;</description></item><item><title>Methodology</title><link>https://journalofdiscords.com/methodology/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/methodology/</guid><description>&lt;p&gt;This project follows a rigorous methodology to ensure accuracy, fairness, and intellectual honesty. We document our approach so readers can evaluate our work.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;core-principles&#34;&gt;Core Principles&lt;/h2&gt;
-&lt;h3 id=&#34;1-primary-sources-only&#34;&gt;1. Primary Sources Only&lt;/h3&gt;
+&lt;h2 id="core-principles"&gt;Core Principles&lt;/h2&gt;
+&lt;h3 id="1-primary-sources-only"&gt;1. Primary Sources Only&lt;/h3&gt;
 &lt;p&gt;Every claim must trace to a specific Journal of Discourses volume, page, date, and speaker. We do not rely on secondhand characterizations or summaries.&lt;/p&gt;
-&lt;p&gt;When we quote a prophet, we quote from the original published sermon, not from a critic&amp;rsquo;s website or a defender&amp;rsquo;s rebuttal.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sources</title>
-      <link>http://localhost:1313/sources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sources/</guid>
-      <description>&lt;p&gt;All quotations in this project come from the Journal of Discourses, a 26-volume collection published between 1854 and 1886. These materials are in the &lt;strong&gt;public domain&lt;/strong&gt; and freely accessible.&lt;/p&gt;
+&lt;p&gt;When we quote a prophet, we quote from the original published sermon, not from a critic&amp;rsquo;s website or a defender&amp;rsquo;s rebuttal.&lt;/p&gt;</description></item><item><title>Sources</title><link>https://journalofdiscords.com/sources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/sources/</guid><description>&lt;p&gt;All quotations in this project come from the Journal of Discourses, a 26-volume collection published between 1854 and 1886. These materials are in the &lt;strong&gt;public domain&lt;/strong&gt; and freely accessible.&lt;/p&gt;
 &lt;p&gt;We encourage readers to verify our citations independently.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;primary-source-archives&#34;&gt;Primary Source Archives&lt;/h2&gt;
-&lt;h3 id=&#34;byu-library-digital-collections&#34;&gt;BYU Library Digital Collections&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3&#34;&gt;contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id="primary-source-archives"&gt;Primary Source Archives&lt;/h2&gt;
+&lt;h3 id="byu-library-digital-collections"&gt;BYU Library Digital Collections&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3"&gt;contentdm.lib.byu.edu/digital/collection/JournalOfDiscourses3&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The official academic archive maintained by Brigham Young University. This is an LDS institution&amp;rsquo;s own preservation of the Journal of Discourses.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;High-quality scans of original volumes&lt;/li&gt;
 &lt;li&gt;Searchable text&lt;/li&gt;
 &lt;li&gt;Academic resource&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;archiveorg&#34;&gt;Archive.org&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://archive.org/search?query=journal+of+discourses&#34;&gt;archive.org/search?query=journal+of+discourses&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terms of Use</title>
-      <link>http://localhost:1313/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;h2 id=&#34;purpose&#34;&gt;Purpose&lt;/h2&gt;
+&lt;h3 id="archiveorg"&gt;Archive.org&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://archive.org/search?query=journal+of+discourses"&gt;archive.org/search?query=journal+of+discourses&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Terms of Use</title><link>https://journalofdiscords.com/terms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://journalofdiscords.com/terms/</guid><description>&lt;h2 id="purpose"&gt;Purpose&lt;/h2&gt;
 &lt;p&gt;Journal of Discords is an educational and documentary project. Our purpose is to create an accurate historical record of teachings from the Journal of Discourses (1854-1886), a 26-volume collection of sermons by early leaders of The Church of Jesus Christ of Latter-day Saints.&lt;/p&gt;
 &lt;p&gt;We present these historical teachings through documented research and original creative works (songs) that trace each claim to its primary source.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;public-domain-sources&#34;&gt;Public Domain Sources&lt;/h2&gt;
-&lt;p&gt;The Journal of Discourses was published between 1854 and 1886. Under United States copyright law, works published before 1928 are in the &lt;strong&gt;public domain&lt;/strong&gt;. All quotations from the Journal of Discourses are taken from public domain materials.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;h2 id="public-domain-sources"&gt;Public Domain Sources&lt;/h2&gt;
+&lt;p&gt;The Journal of Discourses was published between 1854 and 1886. Under United States copyright law, works published before 1928 are in the &lt;strong&gt;public domain&lt;/strong&gt;. All quotations from the Journal of Discourses are taken from public domain materials.&lt;/p&gt;</description></item></channel></rss>

@@ -1,6 +1,6 @@
 ---
 title: "Death on the Spot"
-speaker: "Brigham Young"
+speakers: ["Brigham Young"]
 topics: ["Race", "Interracial Marriage"]
 jod_citation: "JoD 10:110"
 sermon_date: "1863-03-08"

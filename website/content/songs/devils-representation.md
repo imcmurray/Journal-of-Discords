@@ -1,6 +1,6 @@
 ---
 title: "Devil's Representation"
-speaker: "John Taylor"
+speakers: ["John Taylor"]
 topics: ["Race", "Priesthood Ban"]
 jod_citation: "JoD 22:304"
 sermon_date: "1881-08-28"

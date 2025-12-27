@@ -1,6 +1,6 @@
 ---
 title: "Never Given to Another People"
-speaker: "George Q. Cannon"
+speakers: ["George Q. Cannon"]
 topics: ["Failed Prophecy", "Polygamy"]
 jod_citation: "JoD 25:271"
 sermon_date: "1884-08-31"

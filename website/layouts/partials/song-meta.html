@@ -1,9 +1,11 @@
 <div class="song-meta">
   <table class="song-meta-table">
-    {{ with .Params.speaker }}
+    {{ with .Params.speakers }}
     <tr>
       <th>Speaker</th>
-      <td><a href="/speakers/{{ . | urlize }}/">{{ . }}</a></td>
+      <td>
+        {{ range $i, $s := . }}{{ if $i }}, {{ end }}<a href="/speakers/{{ $s | urlize }}/">{{ $s }}</a>{{ end }}
+      </td>
     </tr>
     {{ end }}
     {{ with .Params.jod_citation }}
