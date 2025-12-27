@@ -31,6 +31,11 @@ buildExpired = false
     name = "About"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 4
 
 # Footer menu (legal/informational pages)
   [[menu.footer]]
@@ -48,6 +53,11 @@ buildExpired = false
     name = "Sources"
     url = "/sources/"
     weight = 3
+  [[menu.footer]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "/faq/"
+    weight = 4
 
 # PaperMod theme parameters
 [params]
@@ -90,6 +100,14 @@ Today, the LDS Church says it _"is not an authoritative source of Church doctrin
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/ianm/journal-of-disavowed-discourses"
+
+  # Open Graph / Social Meta
+  [params.images]
+    # Default image for social sharing (can add later)
+
+  # Twitter Card
+  [params.twitter]
+    card = "summary_large_image"
 
   # Cover image defaults
   [params.cover]
