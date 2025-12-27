@@ -71,7 +71,7 @@ The views expressed in the historical quotations are those of the original speak
 
 ## Contact
 
-For corrections, questions, or concerns about this project, please open an issue on our [GitHub repository](https://github.com/ianm/journal-of-disavowed-discourses).
+For corrections, questions, or concerns about this project, please open an issue on our [GitHub repository](https://github.com/imcmurray/Journal-of-Discords).
 
 ---
 
