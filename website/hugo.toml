@@ -27,15 +27,25 @@ buildExpired = false
     url = "/songs/"
     weight = 2
   [[menu.main]]
+    identifier = "topics"
+    name = "Topics"
+    url = "/topics/"
+    weight = 3
+  [[menu.main]]
+    identifier = "speakers"
+    name = "Speakers"
+    url = "/speakers/"
+    weight = 4
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 5
   [[menu.main]]
     identifier = "search"
     name = "Search"
     url = "/search/"
-    weight = 4
+    weight = 6
 
 # Footer menu (legal/informational pages)
   [[menu.footer]]
