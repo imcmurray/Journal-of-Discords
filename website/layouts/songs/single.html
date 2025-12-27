@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="song-page">
+  <header class="song-header">
+    <h1 class="song-title">{{ .Title }}</h1>
+    {{ with .Params.caption }}
+    <p class="song-caption">{{ . }}</p>
+    {{ end }}
+  </header>
+
+  <!-- Suno Player Embed -->
+  {{ partial "suno-embed.html" . }}
+
+  <!-- Song Metadata -->
+  {{ partial "song-meta.html" . }}
+
+  <!-- Main Content -->
+  <div class="song-content">
+    {{ .Content }}
+  </div>
+
+  <!-- Navigation -->
+  <nav class="song-nav">
+    {{ with .PrevInSection }}
+    <a href="{{ .Permalink }}" class="prev-song">&larr; {{ .Title }}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a href="{{ .Permalink }}" class="next-song">{{ .Title }} &rarr;</a>
+    {{ end }}
+  </nav>
+</article>
+{{ end }}

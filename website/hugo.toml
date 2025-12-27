@@ -1,0 +1,107 @@
+baseURL = 'https://journalofdiscords.com/'
+languageCode = 'en-us'
+title = 'Journal of Discords'
+theme = 'PaperMod'
+
+# Enable useful features
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# Taxonomies for filtering
+[taxonomies]
+  topic = "topics"
+  speaker = "speakers"
+
+# Menu configuration
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "songs"
+    name = "Songs"
+    url = "/songs/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+# PaperMod theme parameters
+[params]
+  env = "production"
+  title = "Journal of Discords"
+  description = "Mining the Journal of Discourses for prophetic problems. Historically accurate songs that let the prophets speak for themselves."
+  keywords = ["Journal of Discourses", "LDS", "Mormon", "Brigham Young", "history", "music"]
+  author = "Journal of Discords Project"
+
+  # Theme settings
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  # Home page info mode
+  [params.homeInfoParams]
+    Title = "Journal of Discords"
+    Content = """
+In 1861, apostle George Q. Cannon called the Journal of Discourses _"an additional reflector of 'the light that shines from Zion's hill.'"_
+
+Today, the LDS Church says it _"is not an authoritative source of Church doctrine."_
+
+**This project documents what was taught—in the prophets' own words—so that history is not quietly revised away.**
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ianm/journal-of-disavowed-discourses"
+
+  # Cover image defaults
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+  # Edit post link
+  [params.editPost]
+    disabled = true
+
+  # Search
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Markup settings
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

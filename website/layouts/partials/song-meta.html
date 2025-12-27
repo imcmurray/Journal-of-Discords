@@ -1,0 +1,36 @@
+<div class="song-meta">
+  <table class="song-meta-table">
+    {{ with .Params.speaker }}
+    <tr>
+      <th>Speaker</th>
+      <td><a href="/speakers/{{ . | urlize }}/">{{ . }}</a></td>
+    </tr>
+    {{ end }}
+    {{ with .Params.jod_citation }}
+    <tr>
+      <th>Source</th>
+      <td>{{ . }}</td>
+    </tr>
+    {{ end }}
+    {{ with .Params.sermon_date }}
+    <tr>
+      <th>Sermon Date</th>
+      <td>{{ . }}</td>
+    </tr>
+    {{ end }}
+    {{ with .Params.topics }}
+    <tr>
+      <th>Topics</th>
+      <td>
+        {{ range $i, $topic := . }}{{ if $i }}, {{ end }}<a href="/topics/{{ $topic | urlize }}/">{{ $topic }}</a>{{ end }}
+      </td>
+    </tr>
+    {{ end }}
+    {{ with .Params.style }}
+    <tr>
+      <th>Style</th>
+      <td>{{ . }}</td>
+    </tr>
+    {{ end }}
+  </table>
+</div>

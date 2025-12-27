@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="songs-list-page">
+  <header class="list-header">
+    <h1>{{ .Title | default "Songs" }}</h1>
+    {{ with .Content }}
+    <div class="list-description">{{ . }}</div>
+    {{ end }}
+  </header>
+
+  <!-- Filter Info -->
+  <div class="songs-stats">
+    <p><strong>{{ len .Pages }}</strong> songs documented with full source citations</p>
+  </div>
+
+  <!-- Songs Grid -->
+  <div class="songs-grid">
+    {{ range .Pages }}
+    <article class="song-card">
+      <h2 class="song-card-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      {{ with .Params.caption }}
+      <p class="song-card-caption">{{ . }}</p>
+      {{ end }}
+      <div class="song-card-meta">
+        {{ with .Params.speaker }}
+        <span class="meta-speaker">{{ . }}</span>
+        {{ end }}
+        {{ with .Params.jod_citation }}
+        <span class="meta-citation">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ with .Params.topics }}
+      <div class="song-card-topics">
+        {{ range . }}
+        <a href="/topics/{{ . | urlize }}/" class="topic-tag">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ if .Params.suno_url }}
+      <span class="audio-badge">Audio Available</span>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
