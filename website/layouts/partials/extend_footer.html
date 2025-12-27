@@ -1,0 +1,40 @@
+<!-- Footer Navigation -->
+{{ if .Site.Menus.footer }}
+<nav class="footer-nav">
+  {{ range .Site.Menus.footer }}
+  <a href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
+</nav>
+{{ end }}
+
+<style>
+.footer-nav {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.footer-nav a {
+  color: var(--secondary);
+  text-decoration: none;
+  margin-right: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.footer-nav a:hover {
+  color: var(--primary);
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .footer-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .footer-nav a {
+    margin-right: 0;
+  }
+}
+</style>

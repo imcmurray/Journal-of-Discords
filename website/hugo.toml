@@ -32,6 +32,23 @@ buildExpired = false
     url = "/about/"
     weight = 3
 
+# Footer menu (legal/informational pages)
+  [[menu.footer]]
+    identifier = "terms"
+    name = "Terms of Use"
+    url = "/terms/"
+    weight = 1
+  [[menu.footer]]
+    identifier = "methodology"
+    name = "Methodology"
+    url = "/methodology/"
+    weight = 2
+  [[menu.footer]]
+    identifier = "sources"
+    name = "Sources"
+    url = "/sources/"
+    weight = 3
+
 # PaperMod theme parameters
 [params]
   env = "production"
