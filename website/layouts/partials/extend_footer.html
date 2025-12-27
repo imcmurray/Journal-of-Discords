@@ -1,40 +1,116 @@
-<!-- Footer Navigation -->
-{{ if .Site.Menus.footer }}
-<nav class="footer-nav">
-  {{ range .Site.Menus.footer }}
-  <a href="{{ .URL }}">{{ .Name }}</a>
-  {{ end }}
-</nav>
-{{ end }}
+<!-- Professional Footer Section -->
+<div class="site-footer">
+  <div class="footer-content">
+    <!-- Navigation Links -->
+    {{ if .Site.Menus.footer }}
+    <nav class="footer-nav">
+      {{ $len := len .Site.Menus.footer }}
+      {{ range $i, $item := .Site.Menus.footer }}
+      <a href="{{ $item.URL }}">{{ $item.Name }}</a>{{ if lt (add $i 1) $len }}<span class="separator">•</span>{{ end }}
+      {{ end }}
+    </nav>
+    {{ end }}
+
+    <!-- Tagline -->
+    <p class="footer-tagline">
+      Documenting what was taught—in the prophets' own words—so history is not quietly revised away.
+    </p>
+
+    <!-- Copyright and Links -->
+    <div class="footer-bottom">
+      <span>© {{ now.Year }} Journal of Discords</span>
+      <span class="separator">•</span>
+      <a href="https://github.com/ianm/journal-of-disavowed-discourses" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</div>
 
 <style>
-.footer-nav {
-  margin-top: 1rem;
-  padding-top: 1rem;
+.site-footer {
+  background: var(--code-bg);
   border-top: 1px solid var(--border);
+  margin-top: 3rem;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  padding: 2.5rem 1.5rem;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-nav {
+  margin-bottom: 1.25rem;
 }
 
 .footer-nav a {
-  color: var(--secondary);
+  color: var(--primary);
   text-decoration: none;
-  margin-right: 1.5rem;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  font-weight: 500;
 }
 
 .footer-nav a:hover {
+  text-decoration: underline;
+}
+
+.footer-nav .separator {
+  color: var(--secondary);
+  margin: 0 0.75rem;
+  opacity: 0.5;
+}
+
+.footer-tagline {
+  color: var(--secondary);
+  font-size: 0.9rem;
+  font-style: italic;
+  margin: 0 0 1.25rem 0;
+  line-height: 1.5;
+}
+
+.footer-bottom {
+  color: var(--secondary);
+  font-size: 0.85rem;
+}
+
+.footer-bottom a {
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.footer-bottom a:hover {
   color: var(--primary);
   text-decoration: underline;
 }
 
+.footer-bottom .separator {
+  margin: 0 0.5rem;
+  opacity: 0.5;
+}
+
+/* Dark mode enhancement */
+html[data-theme="dark"] .site-footer {
+  background: rgba(0, 0, 0, 0.3);
+}
+
 @media (max-width: 768px) {
-  .footer-nav {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+  .site-footer {
+    padding: 2rem 1rem;
   }
 
   .footer-nav a {
-    margin-right: 0;
+    display: inline-block;
+    margin: 0.25rem 0;
+  }
+
+  .footer-nav .separator {
+    margin: 0 0.5rem;
+  }
+
+  .footer-tagline {
+    font-size: 0.85rem;
   }
 }
 </style>
