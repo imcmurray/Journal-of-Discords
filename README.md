@@ -17,15 +17,17 @@ Then transform these findings into historically accurate songs that let the prop
 
 ## Why the Journal of Discourses?
 
-The JoD is uniquely valuable because:
+The Journal of Discourses is a 26-volume collection of over 1,500 sermons delivered by early LDS leaders between 1854 and 1886.
 
-1. **Official Publication**: Published with First Presidency approval, sold by the church
-2. **Claimed Authority**: Brigham Young declared the JoD "as good Scripture as is couched in this Bible" (JoD 13:95)
-3. **Now Distanced**: The modern church distances itself from these teachings
-4. **26 Volumes**: Spanning 1854-1886, approximately 1,438 sermons
-5. **Verbatim Records**: Transcribed stenographically from actual sermons
+**Distribution:** Published in Liverpool, England and sold worldwide as a **subscription publication**—a semi-monthly periodical members purchased to receive prophetic sermons unavailable through the Deseret News.
 
-This creates a perfect case study in prophetic reliability.
+**Official Endorsement:** The First Presidency (Brigham Young, Heber C. Kimball, and Willard Richards) issued a letter dated June 1, 1853 encouraging all Saints to purchase the publication. In 1861, apostle George Q. Cannon wrote in Volume 8's preface:
+
+> "The Journal of Discourses deservedly ranks as one of the standard works of the Church, and every rightminded Saint will certainly welcome with joy every Number as it comes forth from the press as an additional reflector of 'the light that shines from Zion's hill.'"
+
+**Then and Now:** George Q. Cannon called the Journal "an additional reflector of 'the light that shines from Zion's hill.'" Today, the LDS Church states it "is not an authoritative source of Church doctrine." This raises an important question: if these teachings were authoritative enough to be sold as prophetic light to members worldwide for 35 years, shaping beliefs about race, marriage, and salvation across generations, what responsibility exists for the real-world impact of those teachings?
+
+This project documents what was taught—in the prophets' own words—so that history is not quietly revised away.
 
 ---
 
@@ -197,10 +199,9 @@ Hold the prophets to the standards they set for themselves. Use their definition
 See `index.md` for detailed tracking.
 
 **Summary:**
-- Volumes Surveyed: 1/26 (partial)
-- Songs Completed: 1
-- Songs In Progress: 0
-- Candidates Identified: 3
+- Volumes Surveyed: 26/26 (COMPLETE)
+- Songs Completed: 9 (all crown jewels)
+- Next Wave Candidates: 50+
 
 ---
 
