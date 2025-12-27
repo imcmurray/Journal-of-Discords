@@ -80,7 +80,7 @@ If you use our material, please:
 
 Please let us know. We are committed to accuracy and will correct any documented errors.
 
-Open an issue on our [GitHub repository](https://github.com/ianm/journal-of-disavowed-discourses) with:
+Open an issue on our [GitHub repository](https://github.com/imcmurray/Journal-of-Discords) with:
 - The specific claim you believe is incorrect
 - The source that contradicts it
 - Your suggested correction
