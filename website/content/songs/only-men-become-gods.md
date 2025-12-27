@@ -1,5 +1,6 @@
 ---
 title: "The Only Men Who Become Gods"
+description: "Brigham Young declared ONLY polygamists can become Gods and they would NEVER abandon polygamy. The LDS Church reversed both positions."
 speakers: ["Brigham Young"]
 topics: ["Polygamy", "Exaltation", "Failed Prophecy"]
 jod_citation: "JoD 11:269"

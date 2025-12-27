@@ -23,8 +23,8 @@
       <p class="song-card-caption">{{ . }}</p>
       {{ end }}
       <div class="song-card-meta">
-        {{ with .Params.speaker }}
-        <span class="meta-speaker">{{ . }}</span>
+        {{ with .Params.speakers }}
+        <span class="meta-speaker">{{ index . 0 }}</span>
         {{ end }}
         {{ with .Params.jod_citation }}
         <span class="meta-citation">{{ . }}</span>

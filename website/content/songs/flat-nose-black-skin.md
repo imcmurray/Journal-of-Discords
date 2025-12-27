@@ -1,5 +1,6 @@
 ---
 title: "Flat Nose and Black Skin"
+description: "Brigham Young taught that 'flat nose and black skin' were divine curses. This theology denied Black members priesthood for 119 years until 1978."
 speakers: ["Brigham Young"]
 topics: ["Race", "Priesthood Ban"]
 jod_citation: "JoD 7:290-291"

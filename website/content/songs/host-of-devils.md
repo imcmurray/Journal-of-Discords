@@ -1,5 +1,6 @@
 ---
 title: "A Host of Devils Will Be Needed"
+description: "Brigham Young taught that temple endowments 'make devils of those who will deny the faith' because 'a host of devils will be needed.' Journal of Discourses."
 speakers: ["Brigham Young"]
 topics: ["Temple", "Bizarre Theology"]
 jod_citation: "JoD 8:181-182"

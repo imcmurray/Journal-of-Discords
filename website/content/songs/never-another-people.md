@@ -1,5 +1,6 @@
 ---
 title: "Never Given to Another People"
+description: "George Q. Cannon promised polygamy would 'never be given to another people.' Six years later, the LDS Church abandoned it. Fundamentalists who kept it were excommunicated."
 speakers: ["George Q. Cannon"]
 topics: ["Failed Prophecy", "Polygamy"]
 jod_citation: "JoD 25:271"

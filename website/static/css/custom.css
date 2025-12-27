@@ -1,5 +1,75 @@
 /* Journal of Discords - Custom Styles */
 
+/* Content Warning Banner */
+.content-warning {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  background: linear-gradient(135deg, #b45309 0%, #92400e 100%);
+  color: #fef3c7;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.content-warning-text {
+  flex: 1;
+  max-width: 800px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.content-warning-text strong {
+  color: #fff;
+}
+
+.content-warning-dismiss {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+
+.content-warning-dismiss:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.content-warning-hidden {
+  display: none;
+}
+
+/* Push body content down when banner is visible */
+body.has-warning {
+  padding-top: 80px;
+}
+
+@media (max-width: 768px) {
+  .content-warning {
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .content-warning-text {
+    font-size: 0.85rem;
+  }
+
+  body.has-warning {
+    padding-top: 140px;
+  }
+}
+
 /* Suno Player Embed */
 .suno-player {
   margin: 2rem 0;

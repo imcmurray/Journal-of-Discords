@@ -1,5 +1,6 @@
 ---
 title: "Death on the Spot"
+description: "Brigham Young declared interracial marriage punishable by 'death on the spot' as God's law. 150 years later, the LDS Church disavowed this teaching."
 speakers: ["Brigham Young"]
 topics: ["Race", "Interracial Marriage"]
 jod_citation: "JoD 10:110"

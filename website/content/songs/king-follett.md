@@ -1,5 +1,6 @@
 ---
 title: "As God Once Was"
+description: "Joseph Smith's King Follett Discourse: 'God himself was once as we are now.' Modern LDS response: 'I don't know that we teach it.' Full source documentation."
 speakers: ["Joseph Smith"]
 topics: ["Cosmology", "Apotheosis"]
 jod_citation: "JoD 6:1-11"

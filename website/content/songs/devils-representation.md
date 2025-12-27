@@ -1,5 +1,6 @@
 ---
 title: "Devil's Representation"
+description: "LDS President John Taylor taught God preserved the 'curse of Cain' through Noah's flood so 'the devil should have a representation upon the earth.'"
 speakers: ["John Taylor"]
 topics: ["Race", "Priesthood Ban"]
 jod_citation: "JoD 22:304"

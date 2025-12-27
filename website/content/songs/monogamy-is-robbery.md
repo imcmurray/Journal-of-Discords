@@ -1,5 +1,6 @@
 ---
 title: "Monogamy Is Robbery"
+description: "Brigham Young called monogamy 'a system established by robbers' and 'no part of Heaven.' Today, every LDS temple marriage is monogamous."
 speakers: ["Brigham Young"]
 topics: ["Polygamy", "Marriage"]
 jod_citation: "JoD 9:322-323"

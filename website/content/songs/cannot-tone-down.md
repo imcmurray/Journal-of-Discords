@@ -1,5 +1,6 @@
 ---
 title: "We Cannot Tone It Down"
+description: "John Taylor vowed they 'cannot tone down' polygamy and died in hiding. Six years later, the LDS Church abandoned the practice he swore to uphold."
 speakers: ["John Taylor"]
 topics: ["Polygamy", "Failed Prophecy"]
 jod_citation: "JoD 25:309-310"

@@ -136,3 +136,29 @@ html[data-theme="dark"] .site-footer {
   }
 }
 </style>
+
+<!-- Content Warning Banner -->
+<script>
+(function() {
+  const STORAGE_KEY = 'jod-warning-dismissed';
+
+  // Check if already dismissed
+  if (localStorage.getItem(STORAGE_KEY)) return;
+
+  // Create banner
+  const banner = document.createElement('div');
+  banner.className = 'content-warning';
+  banner.innerHTML = `
+    <div class="content-warning-text">
+      <strong>Content Warning:</strong> This site documents controversial historical teachings from early LDS prophets, including statements about race, marriage, and theology that many find deeply troubling. Our purpose is educational—preserving accurate history so it is not quietly revised away.
+    </div>
+    <button class="content-warning-dismiss" onclick="this.parentElement.remove(); document.body.classList.remove('has-warning'); localStorage.setItem('${STORAGE_KEY}', '1');">
+      I Understand
+    </button>
+  `;
+
+  // Add to body
+  document.body.prepend(banner);
+  document.body.classList.add('has-warning');
+})();
+</script>
