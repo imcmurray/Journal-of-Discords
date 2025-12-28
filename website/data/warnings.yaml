@@ -1,0 +1,9 @@
+Race:
+  class: "race-content-warning"
+  title: "Content Warning"
+  text: "The following documents racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for historical accountability, not endorsement. We recognize this content may be painful, especially for those whose families were affected."
+
+Polygamy:
+  class: "polygamy-content-warning"
+  title: "Content Warning"
+  text: "The following documents teachings on plural marriage that may be disturbing, particularly for women, survivors of religious trauma, or those affected by historical polygamy practices. These views are presented for historical accountability, not endorsement."

@@ -16,11 +16,6 @@ weight: 1
 > "Shall I tell you the law of God in regard to the African race? If the white man who belongs to the chosen seed mixes his blood with the seed of Cain, the penalty, under the law of God, is death on the spot. This will always be so."
 > — Brigham Young, JoD 10:110 (March 8, 1863)
 
-<div class="race-content-warning">
-<strong>Content Warning</strong>
-<p>The following documents racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for historical accountability, not endorsement. We recognize this content may be painful, especially for those whose families were affected.</p>
-</div>
-
 ---
 
 ## Lyrics

@@ -16,11 +16,6 @@ weight: 2
 > "You see some classes of the human family that are black, uncouth, un-comely, disagreeable and low in their habits, wild, and seemingly deprived of nearly all the blessings of the intelligence that is generally bestowed upon mankind... The Lord put a mark upon him, which is the flat nose and black skin."
 > — Brigham Young, JoD 7:290-291 (October 9, 1859)
 
-<div class="race-content-warning">
-<strong>Content Warning</strong>
-<p>The following documents racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for historical accountability, not endorsement. We recognize this content may be painful, especially for those whose families were affected.</p>
-</div>
-
 ---
 
 ## Lyrics

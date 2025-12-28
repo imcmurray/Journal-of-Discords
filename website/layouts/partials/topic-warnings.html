@@ -1,0 +1,13 @@
+{{- $topics := .Params.topics -}}
+{{- $shown := slice -}}
+{{- range $topics -}}
+  {{- $topic := . -}}
+  {{- $warning := index site.Data.warnings $topic -}}
+  {{- if and $warning (not (in $shown $topic)) -}}
+    {{- $shown = $shown | append $topic -}}
+<div class="{{ $warning.class }}">
+  <strong>{{ $warning.title }}</strong>
+  <p>{{ $warning.text }}</p>
+</div>
+  {{- end -}}
+{{- end -}}
