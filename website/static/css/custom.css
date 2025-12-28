@@ -391,6 +391,29 @@ details p {
   line-height: 1.6;
 }
 
+/* Race-Related Content Warning */
+.race-content-warning {
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);
+  border-left: 4px solid #fca5a5;
+  border-radius: 0 8px 8px 0;
+  color: #fef2f2;
+}
+
+.race-content-warning strong {
+  color: #fff;
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.race-content-warning p {
+  margin: 0;
+  line-height: 1.6;
+  color: #fecaca;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .songs-grid {
