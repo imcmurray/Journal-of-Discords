@@ -12,6 +12,18 @@ This project documents what was taught—in the prophets' own words—so that hi
 
 ---
 
+## Why Songs?
+
+The Journal of Discourses contains powerful, often poetic language delivered in sermons meant to inspire and instruct. By transforming these exact quotes into song lyrics—without alteration—we preserve their original wording in a memorable form that echoes their historical delivery.
+
+Songs make words stick: choruses repeat key phrases just as these teachings were reiterated for decades, building intensity that reflects their real impact on generations of believers. The somber musical style (piano, acoustic, spoken-to-sung transitions) underscores the gravity—this is not mockery, but confrontation with the historical record.
+
+Our goal is education and accountability, making this history more accessible and harder to quietly revise away.
+
+*For more on the generational impact of these teachings, see [Our Mission](/mission/).*
+
+---
+
 ## The Songs
 
 Explore our collection of historically documented songs, each tracing controversial teachings to their primary sources in the Journal of Discourses.
