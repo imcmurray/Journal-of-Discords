@@ -164,7 +164,7 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
   banner.className = 'content-warning';
   banner.innerHTML = `
     <div class="content-warning-text">
-      <strong>Content Warning:</strong> This site presents historical teachings from early LDS prophets containing racist and sexist language, statements about race, polygamy, and theology that are deeply harmful by modern standards. These views are presented for educational purposes only—we do not endorse them. Our goal is accurate historical preservation. Reader discretion is advised.
+      <strong>Content Warning:</strong> This site presents historical teachings from early LDS prophets containing racist and sexist language, including statements about race, polygamy, and theology that are deeply harmful by modern standards. These include racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for educational purposes and historical accountability only—we do not endorse them. We recognize this content may be painful, especially for those whose families were affected. Reader discretion is strongly advised.
     </div>
     <button class="content-warning-dismiss" onclick="this.parentElement.remove(); document.body.classList.remove('has-warning'); localStorage.setItem('${STORAGE_KEY}', '1');">
       I Understand
