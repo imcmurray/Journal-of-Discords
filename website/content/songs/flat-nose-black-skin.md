@@ -5,7 +5,7 @@ speakers: ["Brigham Young"]
 topics: ["Race", "Priesthood Ban"]
 jod_citation: "JoD 7:290-291"
 sermon_date: "1859-10-09"
-suno_url: "https://suno.com/embed/lhcndtVHob9rTqvQ"
+suno_url: "https://suno.com/embed/2bdc6489-b7cb-4dc0-9ba9-3bf0064a74fb"
 style: "Somber blues, spiritual, gospel, mournful testimony"
 caption: "Brigham Young identified 'flat nose and black skin' as divine curses. For 119 years, this theology denied priesthood to Black Latter-day Saints."
 weight: 2
