@@ -314,6 +314,13 @@ body.has-warning {
   font-weight: 500;
 }
 
+/* Make topic tags and audio badge clickable above the full-card link on homepage */
+.post-entry .song-card-topics,
+.post-entry .audio-badge {
+  position: relative;
+  z-index: 1;
+}
+
 /* Source Table Styling */
 .song-content table {
   width: 100%;
