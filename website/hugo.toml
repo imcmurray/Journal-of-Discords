@@ -49,6 +49,11 @@ buildExpired = false
 
 # Footer menu (legal/informational pages)
   [[menu.footer]]
+    identifier = "mission"
+    name = "Our Mission"
+    url = "/mission/"
+    weight = 0
+  [[menu.footer]]
     identifier = "terms"
     name = "Terms of Use"
     url = "/terms/"
