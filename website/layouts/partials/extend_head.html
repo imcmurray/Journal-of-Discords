@@ -7,8 +7,10 @@
   gtag('config', 'G-ZBJPQQP0DJ');
 </script>
 
-<!-- Custom CSS -->
-<link rel="stylesheet" href="/css/custom.css">
+<!-- Custom CSS (fingerprinted for cache busting) -->
+{{ $css := resources.Get "css/custom.css" }}
+{{ $css = $css | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
