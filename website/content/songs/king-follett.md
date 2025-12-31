@@ -5,7 +5,7 @@ speakers: ["Joseph Smith"]
 topics: ["Cosmology", "Apotheosis"]
 jod_citation: "JoD 6:1-11"
 sermon_date: "1844-04-07"
-suno_url: ""
+suno_url: "https://suno.com/embed/30bfd9b4-7e3f-45d5-a2f9-b93e972f0f42"
 style: "Epic rock, symphonic, theatrical, Queen-style harmonies"
 caption: "The King Follett Discourse — Joseph Smith's magnum opus, delivered 81 days before his death. 'God himself was once as we are now.' Modern church response: 'I don't know that we teach it.'"
 weight: 7
