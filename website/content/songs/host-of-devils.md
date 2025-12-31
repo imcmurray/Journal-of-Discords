@@ -127,6 +127,23 @@ Is this:
 ---
 
 <details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "They tell you in the temple prep class" | Modern temple preparation materials | Context |
+| "September 1860, he explained" | JoD 8:176 (sermon header) | Historical |
+| "Do you query why we give endowments / To A., B., and C.?" | JoD 8:181 | Quote |
+| "It is to make devils of those who will deny the faith" | JoD 8:181-182 | Quote |
+| "For that is also necessary" | JoD 8:181-182 | Quote |
+| "As a host of devils will be needed" | JoD 8:182 | Quote |
+| "For the exaltation of some / And the downfall of others" | JoD 8:181-182 | Quote |
+| "Every active member knows someone" | Application | Original |
+| "A host of devils will be needed" | JoD 8:182 | Quote |
+
+</details>
+
+<details>
 <summary><strong>Addressing Apologetic Responses</strong></summary>
 
 ### "Speaking figuratively"

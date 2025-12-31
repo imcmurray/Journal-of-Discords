@@ -128,4 +128,43 @@ The "great secret" Joseph couldn't contain became something President Hinckley "
 
 ---
 
+<details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "April seventh, eighteen forty-four" | JoD 6:1 (sermon date) | Historical |
+| "King Follett's dead, the mourners weep" | Funeral address context | Historical |
+| "I'm going to tell you how God came to be God" | JoD 6:3 | Quote |
+| "The great secret—I will not hide" | JoD 6:3 ("That is the great secret") | Paraphrase |
+| "If I fail to do it, I'll renounce my prophetic stand" | JoD 6:3 | Paraphrase |
+| "God himself was once as we are now" | JoD 6:3 | Quote |
+| "An exalted man" | JoD 6:3 | Quote |
+| "You have got to learn to be gods" | JoD 6:4 | Quote |
+| "The same as all gods have done" | JoD 6:4 | Quote |
+| "As God once was, man now is / As God now is, man may become" | Lorenzo Snow couplet | Quote |
+| "Eighty-one days before he died" | Historical (April 7 to June 27, 1844) | Historical |
+| "I don't know that we teach it" | Gordon B. Hinckley, Time/Larry King, 1997 | Quote |
+
+</details>
+
+<details>
+<summary><strong>Addressing Apologetic Responses</strong></summary>
+
+### "This was metaphorical, not literal"
+Joseph said "I am going to tell you how God came to be God." He stated God "dwelt on an earth, the same as Jesus Christ himself did." These are specific historical claims, not metaphors.
+
+### "This was speculation, not official doctrine"
+Joseph explicitly staked his prophetic calling: "If I fail to do it, it becomes my duty to renounce all further pretensions to be a Prophet." Delivered at General Conference, recorded by four scribes, published officially, taught for over a century.
+
+### "President Hinckley was just being cautious"
+This admits the problem: the founding prophet's central teaching is now too embarrassing to acknowledge. If Joseph was right, why hide it? If he was wrong about something he staked his calling on, what does that mean?
+
+### "You're taking this out of context"
+Context makes it stronger. Joseph called it "the great secret," delivered to 8,000+ people at General Conference, bet his prophetic authority on it, and it was celebrated for a century.
+
+</details>
+
+---
+
 *The great secret — or is it?*

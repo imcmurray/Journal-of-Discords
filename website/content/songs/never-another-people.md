@@ -134,4 +134,51 @@ Who are "another people"? The ones who kept the doctrine? Or the ones who kept t
 
 ---
 
+## The Modern Reversal
+
+> "Inasmuch as laws have been enacted by Congress forbidding plural marriages... I hereby declare my intention to submit to those laws, and to use my influence with the members of the Church over which I preside to have them do likewise."
+> — Wilford Woodruff, Official Declaration 1 (1890)
+
+Six years after Cannon promised "this work shall never be given to another people," the Manifesto discontinued the practice. The work Cannon swore would "stand forever" was fundamentally changed under federal pressure.
+
+---
+
+<details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "August eighteen eighty-four / Tabernacle, Salt Lake floor" | JoD 25:268 (header) | Historical |
+| "Federal marshals hunt the night" | Edmunds Act (1882) enforcement | Historical |
+| "George Q. Cannon, raised his hand" | JoD 25:268 | Historical |
+| "God has given this to me" | JoD 25:271 ("God has given unto us the assurance") | Paraphrase |
+| "Looking at affairs naturally / It would seem like vanity" | JoD 25:271 ("it would seem presumptuous") | Paraphrase |
+| "This work shall never be given / To another people" | JoD 25:271 | Quote |
+| "It shall stand forever" | JoD 25:271 | Quote |
+| "Fill the whole earth together" | JoD 25:271 ("fill the whole earth") | Quote |
+| "Six years pass, the pressure mounts" | Timeline to 1890 Manifesto | Historical |
+| "Wilford Woodruff bows his head" | Official Declaration 1 | Historical |
+| "Who are 'another people'?" | Analysis of Cannon's phrase | Original |
+
+</details>
+
+<details>
+<summary><strong>Addressing Apologetic Responses</strong></summary>
+
+### "The church didn't stop; only the practice changed"
+In 1884 context, "this work" clearly meant polygamy defense — that's what the entire sermon was about. Brigham Young taught polygamy was required for exaltation (JoD 11:269). Dropping a salvific doctrine is a fundamental change.
+
+### "The Manifesto was divine revelation"
+Creates a theological crisis: Did God prophesy "never change" through Cannon, then reverse through Woodruff? Cannon specifically said federal "efforts to extirpate this work" would fail — the Manifesto happened precisely because of those efforts.
+
+### "Cannon was speaking as a man"
+First Counselor in First Presidency, Sunday discourse from Tabernacle, published in Journal of Discourses, explicit claim: "God has given unto us the assurance." This was presented as divine revelation.
+
+### "Fundamentalists are apostates; we kept continuity"
+By what measure "same"? Doctrine changed (polygamy required → forbidden), temple ordinances changed, leadership profile changed. If "the work" is organizational structure rather than doctrine, what makes it "God's work"?
+
+</details>
+
+---
+
 *So who are "the other people"?*

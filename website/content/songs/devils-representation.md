@@ -100,6 +100,25 @@ For those who seek to find
 ---
 
 <details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "Sunday morning, Provo Stake / August, eighteen eighty-one" | JoD 22:297 (sermon header) | Historical |
+| "The prophet stood for heaven's sake" | John Taylor as Church President | Historical |
+| "He spoke of spirits before this life" | JoD 22:303 | Paraphrase |
+| "The devil needs representation" | JoD 22:304 ("the devil should have a representation upon the earth") | Quote |
+| "God designed it so, the prophet said" | JoD 22:304 ("it was necessary") | Paraphrase |
+| "The curse of Cain preserved through Ham's own bed" | JoD 22:304 ("continued through Ham's wife") | Quote |
+| "Why did it pass through the flood?" | JoD 22:304 | Quote |
+| "Suffered a descendant of Cain to come through the flood" | JoD 22:304 | Quote |
+| "Two thousand thirteen / The essay finally came" | 2013 Gospel Topics Essay | Historical |
+| "We disavow the theories" | 2013 Essay | Quote |
+| "For one hundred years and more" | 1881-1978 (97 years) | Historical |
+
+</details>
+
+<details>
 <summary><strong>Addressing Apologetic Responses</strong></summary>
 
 ### "Speaking as a man"

@@ -124,6 +124,45 @@ The same congregation that voted "Amen" to "we cannot tone it down" voted "Amen"
 ---
 
 <details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "God has given us a revelation" | JoD 25:309 | Quote |
+| "Celestial marriage, I did not make it" | JoD 25:309 | Quote |
+| "They would like us to tone it down" | JoD 25:309 | Quote |
+| "Change it, make it fit the day" | JoD 25:309 ("applicable to the views of the day") | Paraphrase |
+| "This we cannot do" | JoD 25:309 | Quote |
+| "Nor can we interfere with the commands of God" | JoD 25:309 | Quote |
+| "I cannot, I will not do it" | JoD 25:309 | Quote |
+| "We will stand by eternal truth" | JoD 25:309 ("principles of eternal truth") | Paraphrase |
+| "Living we will proclaim them" | JoD 25:309 | Quote |
+| "Dying we will be true" | JoD 25:309 | Quote |
+| "All who sanction it say Amen" | JoD 25:309 | Quote |
+| "July 25th, 1887 / President John Taylor dies in hiding" | Historical fact | Historical |
+| "October 1890 / The Manifesto is read" | Official Declaration 1 | Historical |
+| "We toned it down" | Inversion of JoD 25:309 | Original |
+
+</details>
+
+<details>
+<summary><strong>Addressing Apologetic Responses</strong></summary>
+
+### "The Manifesto was divine revelation"
+Taylor said they "cannot interfere with commands of God to meet persuasions of men." The Manifesto was a direct response to government pressure — the exact "persuasions of men" Taylor said could never change divine commands.
+
+### "Taylor died before the Manifesto; he kept his word"
+Taylor spoke as Church President with congregational ratification. He spoke for the institution, not just himself. The same congregation that voted "Amen" in 1884 voted "Amen" to the opposite in 1890.
+
+### "He meant morally 'cannot,' not literally impossible"
+Taylor invoked God's name, asked for a sustaining vote, and made absolute declarations. When a Church President at General Conference does this, it functions as prophecy.
+
+### "Speaking as a man, not as prophet"
+Church President at General Conference, speaking about canonized scripture (D&C 132), invoked "in the name of Israel's God," received congregational Amen, published in Journal of Discourses. If this isn't prophetic teaching, nothing is.
+
+</details>
+
+<details>
 <summary><strong>The Congregational Vote</strong></summary>
 
 Both Taylor's 1884 declaration and Woodruff's 1890 Manifesto were presented to the congregation for a sustaining vote. Both received "Amen."

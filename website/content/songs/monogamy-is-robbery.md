@@ -102,6 +102,34 @@ D&C 132, which commands polygamy, remains canonized scripture.
 
 ---
 
+## The Modern Reversal
+
+> "The Church of Jesus Christ of Latter-day Saints... denounces the practice and teachings of plural marriage."
+> — Modern LDS Church, Official Statement
+
+Today, every temple marriage is monogamous. The "system established by robbers" is now the only system the church performs.
+
+---
+
+<details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "July, eighteen sixty-two" | JoD 9:322 (sermon date) | Historical |
+| "While Congress passed their anti-bigamy law" | Morrill Anti-Bigamy Act, July 1, 1862 | Historical |
+| "You can't dictate the Almighty One" | JoD 9:323 ("dictate the Almighty") | Paraphrase |
+| "Those who insult the Great I Am will fall" | JoD 9:323 ("insult to the Great I Am") | Paraphrase |
+| "He traced it back to ancient Rome" | JoD 9:322 ("founders of the Roman empire") | Paraphrase |
+| "Founded by brigands far from home" | JoD 9:322 ("wandering brigands") | Quote |
+| "They stole their wives from the Sabine land" | JoD 9:322 ("stole them from the Sabines") | Quote |
+| "Monogamy is robbery" | JoD 9:322-323 ("system established by robbers") | Paraphrase |
+| "No part of the economy of Heaven among men" | JoD 9:322 | Quote |
+| "Not a holy sacrament, not divine" | JoD 9:322-323 (Brigham denying this) | Paraphrase |
+| "Did Heaven change, or was the prophet wrong?" | Analysis of contradiction | Original |
+
+</details>
+
 <details>
 <summary><strong>Addressing Apologetic Responses</strong></summary>
 
