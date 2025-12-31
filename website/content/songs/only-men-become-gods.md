@@ -116,4 +116,53 @@ If the modern church is correct, Brigham spoke false prophecy.
 
 ---
 
+## The Modern Reversal
+
+> "Inasmuch as laws have been enacted by Congress forbidding plural marriages... I hereby declare my intention to submit to those laws, and to use my influence with the members of the Church over which I preside to have them do likewise."
+> — Wilford Woodruff, Official Declaration 1 (1890)
+
+Today, monogamous temple-sealed couples are promised exaltation. D&C 132 (commanding polygamy) remains canonized scripture while the practice it commands brings excommunication.
+
+---
+
+<details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "Eighteen sixty-six, Bowery heat" | JoD 11:266 (sermon header) | Historical |
+| "I know it is from God, I know it came from heaven" | JoD 11:270 | Quote |
+| "As true as that God lives, I say to all the world" | JoD 11:269 | Quote |
+| "The only men who become Gods are those with many pearls" | JoD 11:269 | Paraphrase |
+| "Polygamists, at least in your faith" | JoD 11:269 | Quote |
+| "Or come short of the glory Abraham attained" | JoD 11:269 | Paraphrase |
+| "The only men who become Gods / Are those who enter polygamy" | JoD 11:269 | Quote |
+| "But they cannot reign as kings" | JoD 11:269 | Quote |
+| "Do you think we'll be admitted without denying it?" | JoD 11:270 | Quote |
+| "If we are not admitted until then--we shall never be admitted" | JoD 11:270 | Quote |
+| "Eighteen ninety, gave it up" | 1890 Manifesto | Historical |
+| "Eighteen ninety-six, statehood won" | Utah statehood 1896 | Historical |
+| "As true as that God lives" | JoD 11:269 | Quote |
+
+</details>
+
+<details>
+<summary><strong>Addressing Apologetic Responses</strong></summary>
+
+### "Speaking as a man, not as prophet"
+He explicitly said "I KNOW it is from God—I know that he revealed it from heaven." He invoked "This is as true as that God lives." Delivered as Sunday sermon, published in official Journal of Discourses.
+
+### "Polygamy is still doctrine, just not practiced"
+Brigham requires EARTHLY entry: "Those who ENTER INTO polygamy." The word "ONLY" is categorical—monogamous men "cannot reign as kings in glory." The church actively excommunicates polygamists.
+
+### "Continuing revelation superseded it"
+The 1890 Manifesto never claims to be revelation—it's a policy statement. D&C 132 (commanding polygamy) remains canonized scripture. If "as true as God lives" can be reversed, nothing is trustworthy.
+
+### "The government forced them to stop"
+This proves the failed prophecy. Brigham asked "Do you not think that the Lord will conquer?" and prophesied "we shall never be admitted" without denying polygamy. The Lord didn't conquer. The government won.
+
+</details>
+
+---
+
 *Either the founding prophet was catastrophically wrong, or the modern church is selling a false promise.*
