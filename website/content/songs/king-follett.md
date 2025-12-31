@@ -21,11 +21,10 @@ weight: 7
 ## Lyrics
 
 ```
-[Extended Intro - Atmospheric, building cosmic soundscape]
-[Distant choir: "Ahhhh"]
-[Piano and strings gradually layer in]
+[Intro - Atmospheric, building cosmic soundscape]
+[Piano and strings gradually layer in][Soft drums begin to pulse]
 
-[Verse 1 - Building, confident]
+[Verse 1 - Building, confident, storytelling]
 April seventh, eighteen forty-four
 A funeral sermon, but something more
 King Follett's dead, the mourners weep
@@ -46,52 +45,108 @@ God himself was once as we are now
 An exalted man upon his mortal brow
 You have got to learn to be gods, don't you see?
 The same as all gods have done—eternally
-As God once was, man now is
-As God now is, man may become
-The great secret of the universe
-The prophet's magnum opus
+The head of the gods called a council to meet
+Concocted the plan, made creation complete
+This is the secret, the truth profound—
+As man is now, God once was found
 
-[Verse 2]
-"If the veil were rent today
-And the great God made display
-You would see him like a man in form
-Like yourselves, the very norm"
-Eight thousand witnesses that day
-Heard every word the prophet say
-Eighty-one days before he died
-The "great secret" he couldn't hide
+[Verse 2 - Declarative, building intensity]
+"God the Father dwelt on earth like you,
+The same as Jesus Christ, this much is true
+He laid down his body, his life, his breath
+Then took it up again—conquered death"
+"God never had the power to create your soul—
+Intelligence eternal is the whole"
+"From age to age, self-existent, free—
+Co-equal with God in eternity"
 
-[Bridge - Shift, modern day]
-Nineteen ninety-seven, Larry King
-Asks President Hinckley everything
-"Do Mormons believe God was once a man?"
-The prophet pauses, shifts his stand
+[Verse 3 - Joseph's grandiosity]
+[Slight key change, building to peak]
+"I have the Bible in four tongues," he proclaimed
+"Hebrew, Latin, German, Greek—I'm not ashamed"
+"I am learned, know more than all the world combined"
+"The Holy Ghost is in me—he's not blind"
+"I shall comment on the very first word
+Of Genesis itself—let truth be heard
+And if I fail, let my calling cease—
+But I won't fail—I bring you peace"
 
-"I don't know that we teach it
-I don't know that we emphasize it"
-The great secret, once so bold
-Now carefully controlled
+[Pre-Chorus - Powerful]
+"From one small degree to the next you'll climb
+From a small capacity to glory sublime
+From grace to grace, exaltation to exaltation rise
+Until you sit enthroned in the skies"
 
-[Final Chorus - Epic, questioning]
+[Chorus Variation - Peak energy, triumphant]
 God himself was once as we are now
-Eight thousand heard the sacred vow
+(He spoke with power, solemn vow)
+You have got to learn to be gods, all agree
+(The same as all gods have done—can't you see?)
+The head of the gods—yes, gods, plural, more—
+Called a council divine from heaven's floor
+This is the secret that sets us free—
+As God is now, man may be
+
+[Extended Bridge - Tonal shift, stripped down arrangement]
+[Music drops to piano and soft strings]
+[Spoken-word quality, uncertain]
+
+Eighty-one days later—Carthage Jail
+The prophet's voice would tell no more tale
+But the teaching spread through Zion's land
+Lorenzo Snow confirmed it: understand—
+"As man now is, God once was,
+As God now is, man may be"—this was the cause
+
+[Music builds slightly - adding bass, drums]
+
+A century passes, then comes the test
+A reporter asks the prophet blessed
+"Tell me about the teaching, please explain—
+That God was once a man on another plane?"
+
+[Music nearly stops - single piano]
+
+President Hinckley, nineteen ninety-seven:
+"I don't know that we teach it—path to heaven"
+"I don't know that we emphasize it much"
+"I don't know a lot about it and such"
+"I don't think others know a lot about it too"
+
+[Pause]
+
+The great secret... forgotten, through and through.
+
+[Final Chorus - Returns to epic with ironic edge]
+[Full arrangement crashes back in]
+God himself was once as we are now—
+(Or so the prophet taught with solemn vow)
 You have got to learn to be gods, don't you see?
-Or do we not know that we teach it—publicly?
+(Unless we don't teach it anymore, maybe?)
+The head of the gods called a council to meet—
+(But we don't emphasize it on the street)
+This is the secret that made us unique—
+(Now hidden from the investigators we seek)
 
-The King Follett Discourse stands
-In the Journal by their own hands
-The great secret still on record
-But "I don't know that we teach it"
+[Extended Outro - Atmospheric, unresolved]
+[Choir returns with "Ahhhh"]
+[Piano plays motifs from the chorus]
+[Strings swell and fade]
 
-[Outro - Piano, fading]
-As God once was
-(I don't know that we teach it)
-Man may become
-(I don't know that we emphasize it)
-The great secret
-(Eighty-one days before he died)
-The prophet told
-(Now we're not sure if we teach it)
+Eighty-one days between the sermon and the death
+The king gave his folly one final breath
+"I am learned," he said, "more than all the world"
+But now his great secret lies unfurled
+Taught for a century, then put away
+The gods of the council have nothing to say
+
+[Soft spoken word over fading music]
+"If I fail to do it,
+It becomes my duty
+To renounce all further pretensions
+To be a prophet..."
+
+[END]
 ```
 
 ---
@@ -139,12 +194,26 @@ The "great secret" Joseph couldn't contain became something President Hinckley "
 | "The great secret—I will not hide" | JoD 6:3 ("That is the great secret") | Paraphrase |
 | "If I fail to do it, I'll renounce my prophetic stand" | JoD 6:3 | Paraphrase |
 | "God himself was once as we are now" | JoD 6:3 | Quote |
-| "An exalted man" | JoD 6:3 | Quote |
+| "An exalted man upon his mortal brow" | JoD 6:3 ("is an exalted Man") | Quote |
 | "You have got to learn to be gods" | JoD 6:4 | Quote |
-| "The same as all gods have done" | JoD 6:4 | Quote |
-| "As God once was, man now is / As God now is, man may become" | Lorenzo Snow couplet | Quote |
-| "Eighty-one days before he died" | Historical (April 7 to June 27, 1844) | Historical |
-| "I don't know that we teach it" | Gordon B. Hinckley, Time/Larry King, 1997 | Quote |
+| "The same as all gods have done—eternally" | JoD 6:4 | Quote |
+| "The head of the gods called a council to meet" | JoD 6:5 | Quote |
+| "Concocted the plan, made creation complete" | JoD 6:5 ("concocted a plan") | Quote |
+| "God the Father dwelt on earth like you" | JoD 6:3 | Quote |
+| "He laid down his body... took it up again" | JoD 6:4 | Paraphrase |
+| "God never had the power to create your soul" | JoD 6:6 | Paraphrase |
+| "Intelligence eternal is the whole" | JoD 6:6 | Quote |
+| "Co-equal with God in eternity" | JoD 6:5-6 | Paraphrase |
+| "I have the Bible in four tongues" | JoD 6:4-5 | Quote |
+| "Hebrew, Latin, German, Greek" | JoD 6:4-5 | Quote |
+| "I am learned, know more than all the world combined" | JoD 6:5 | Quote |
+| "From one small degree to the next you'll climb" | JoD 6:4 | Paraphrase |
+| "From grace to grace, exaltation to exaltation rise" | JoD 6:4 | Quote |
+| "Eighty-one days later—Carthage Jail" | Historical (April 7 to June 27, 1844) | Historical |
+| "As man now is, God once was / As God now is, man may be" | Lorenzo Snow couplet | Quote |
+| "I don't know that we teach it" | Gordon B. Hinckley, 1997 | Quote |
+| "I don't know that we emphasize it" | Gordon B. Hinckley, 1997 | Quote |
+| "If I fail to do it... renounce all further pretensions to be a prophet" | JoD 6:3 | Quote |
 
 </details>
 
