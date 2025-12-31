@@ -5,7 +5,7 @@ speakers: ["Brigham Young"]
 topics: ["Polygamy", "Exaltation", "Failed Prophecy"]
 jod_citation: "JoD 11:269"
 sermon_date: "1866-08-19"
-suno_url: ""
+suno_url: "https://suno.com/embed/d69dbaa5-7740-4ded-b19f-d3508c7664a2"
 style: "Dark americana, gospel-rock, anthemic"
 caption: "Brigham Young declared that ONLY polygamists can become Gods. He prophesied they would NEVER abandon polygamy for statehood. Both claims were reversed."
 weight: 6
