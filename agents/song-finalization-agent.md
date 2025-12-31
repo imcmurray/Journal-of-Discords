@@ -351,13 +351,72 @@ After completing a song:
 
 1. **Commit to `songs/completed/`**
 2. **Update all cross-references**
-3. **Notify for production** (Suno generation)
-4. **Log any follow-up songs** suggested by this material
+3. **Create website version** (see below)
+4. **Notify for production** (Suno generation)
+5. **Log any follow-up songs** suggested by this material
 
 The song is now ready for:
 - Suno generation
 - Addition to the catalog
 - Publication with companion materials
+
+---
+
+## Website Song Page Template
+
+When creating `website/content/songs/[song-name].md`, the page **must** include these sections:
+
+### Required Sections
+
+1. **Frontmatter** — title, description, speakers, topics, jod_citation, sermon_date, suno_url, style, caption, weight
+2. **The Quote** — Primary source quote with full citation
+3. **Lyrics** — Complete lyrics in code block
+4. **Historical Context** — Setting, speaker, significance
+5. **The Modern Disavowal/Reversal** — Quote showing church's changed position
+6. **Lyric-to-Source Mapping** — Collapsible table
+7. **Addressing Apologetic Responses** — Collapsible defenses
+
+### Collapsible Section Format
+
+Use HTML `<details>` tags for source mapping and apologetic responses:
+
+```markdown
+<details>
+<summary><strong>Lyric-to-Source Mapping</strong></summary>
+
+| Lyric | Source | Type |
+|-------|--------|------|
+| "Exact lyric from song" | JoD X:page | Quote |
+| "Paraphrased lyric" | JoD X:page | Paraphrase |
+| "Bridge line" | Historical context | Original |
+
+</details>
+
+<details>
+<summary><strong>Addressing Apologetic Responses</strong></summary>
+
+### "Defense title in quotes"
+Rebuttal explaining why the defense fails, with source reference.
+
+### "Second defense"
+Second rebuttal with evidence.
+
+</details>
+```
+
+### Type Categories for Mapping
+
+- **Quote** — Direct or near-direct quotation from source
+- **Paraphrase** — Rewording of source content
+- **Historical** — Based on documented historical events
+- **Original** — Bridge/connector material not from source
+
+### Reference Examples
+
+See these completed website songs for format reference:
+- `website/content/songs/death-on-the-spot.md`
+- `website/content/songs/only-men-become-gods.md`
+- `website/content/songs/flat-nose-black-skin.md`
 
 ---
 
