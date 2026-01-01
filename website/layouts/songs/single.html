@@ -10,14 +10,18 @@
   <!-- Topic-Based Content Warnings -->
   {{ partial "topic-warnings.html" . }}
 
-  <!-- Suno Player Embed -->
+  <!-- Suno Player Embed with Like Button Overlay -->
+  {{ with .Params.suno_url }}
+  <div class="suno-player-wrapper">
+    {{ partial "suno-embed.html" $ }}
+    {{ partial "like-button.html" $ }}
+  </div>
+  {{ else }}
   {{ partial "suno-embed.html" . }}
+  {{ end }}
 
   <!-- Song Metadata -->
   {{ partial "song-meta.html" . }}
-
-  <!-- Like Button -->
-  {{ partial "like-button.html" . }}
 
   <!-- Main Content -->
   <div class="song-content">
