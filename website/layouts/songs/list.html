@@ -10,12 +10,15 @@
   <!-- Filter Info -->
   <div class="songs-stats">
     <p><strong>{{ len .Pages }}</strong> songs documented with full source citations</p>
+    <label class="audio-filter-toggle">
+      <input type="checkbox" id="audio-filter"> Show only songs with audio
+    </label>
   </div>
 
   <!-- Songs Grid -->
   <div class="songs-grid">
     {{ range .Pages }}
-    <article class="song-card">
+    <article class="song-card" data-has-audio="{{ if .Params.suno_url }}true{{ else }}false{{ end }}">
       <h2 class="song-card-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </h2>
@@ -44,4 +47,12 @@
     {{ end }}
   </div>
 </div>
+
+<script>
+document.getElementById('audio-filter').addEventListener('change', function() {
+  document.querySelectorAll('.song-card').forEach(card => {
+    card.classList.toggle('audio-filtered', this.checked);
+  });
+});
+</script>
 {{ end }}

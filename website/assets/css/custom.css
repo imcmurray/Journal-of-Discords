@@ -314,6 +314,24 @@ body.has-warning {
   font-weight: 500;
 }
 
+/* Audio Filter Toggle */
+.audio-filter-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.audio-filter-toggle input {
+  cursor: pointer;
+}
+
+.song-card[data-has-audio="false"].audio-filtered {
+  display: none;
+}
+
 /* Make topic tags and audio badge clickable above the full-card link on homepage */
 .post-entry .song-card-topics,
 .post-entry .audio-badge {
