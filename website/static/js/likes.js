@@ -83,5 +83,9 @@ async function fetchLikeCount(songId) {
   }
 }
 
-// Initialize on page load
-document.addEventListener('DOMContentLoaded', initializeLikes);
+// Initialize on page load (handle both cases: script in head vs footer)
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initializeLikes);
+} else {
+  initializeLikes();
+}
