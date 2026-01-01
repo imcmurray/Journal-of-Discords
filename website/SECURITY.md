@@ -119,7 +119,7 @@ Generated from `hugo list all` on 2024-12-29.
 | Pattern | Description |
 |---------|-------------|
 | `/assets/css/*.css` | Compiled stylesheets |
-| `/assets/js/*.js` | Compiled JavaScript |
+| `/assets/js/*.js` | Custom JavaScript (e.g., likes.js) |
 | `/css/*.css` | Custom CSS |
 | `/apple-touch-icon.png` | iOS icon |
 | `/favicon-16x16.png` | Favicon 16px |
