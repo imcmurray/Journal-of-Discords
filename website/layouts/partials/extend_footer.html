@@ -156,8 +156,12 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
 (function() {
   const STORAGE_KEY = 'jod-warning-dismissed';
 
-  // Check if already dismissed
-  if (localStorage.getItem(STORAGE_KEY)) return;
+  // Check if already dismissed (with error handling)
+  try {
+    if (localStorage.getItem(STORAGE_KEY)) return;
+  } catch (e) {
+    // localStorage unavailable, show warning anyway
+  }
 
   // Create banner
   const banner = document.createElement('div');
@@ -166,10 +170,19 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
     <div class="content-warning-text">
       <strong>Content Warning:</strong> This site presents historical teachings from early LDS prophets containing racist and sexist language, including statements about race, polygamy, and theology that are deeply harmful by modern standards. These include racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for educational purposes and historical accountability only—we do not endorse them. We recognize this content may be painful, especially for those whose families were affected. Reader discretion is strongly advised.
     </div>
-    <button class="content-warning-dismiss" onclick="this.parentElement.remove(); document.body.classList.remove('has-warning'); localStorage.setItem('${STORAGE_KEY}', '1');">
-      I Understand
-    </button>
+    <button class="content-warning-dismiss">I Understand</button>
   `;
+
+  // Add dismiss handler (avoid inline onclick for CSP compliance)
+  banner.querySelector('.content-warning-dismiss').addEventListener('click', function() {
+    banner.remove();
+    document.body.classList.remove('has-warning');
+    try {
+      localStorage.setItem(STORAGE_KEY, '1');
+    } catch (e) {
+      // localStorage unavailable, ignore
+    }
+  });
 
   // Add to body
   document.body.prepend(banner);

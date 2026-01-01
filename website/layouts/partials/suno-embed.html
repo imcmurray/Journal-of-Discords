@@ -1,13 +1,26 @@
 {{ if .Params.suno_url }}
+{{ $url := .Params.suno_url }}
+{{/* Security: Only allow known Suno domains */}}
+{{ if or (hasPrefix $url "https://suno.com/") (hasPrefix $url "https://app.suno.ai/") }}
 <div class="suno-player">
   <iframe
-    src="{{ .Params.suno_url }}"
+    src="{{ $url }}"
     width="100%"
     height="200"
     style="border-radius: 12px; border: none;"
-    loading="lazy">
+    loading="lazy"
+    title="Song Audio Player - {{ .Title }}"
+    sandbox="allow-scripts allow-same-origin allow-popups"
+    referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
 </div>
+{{ else }}
+<div class="suno-placeholder">
+  <div class="placeholder-content">
+    <p>Invalid audio source</p>
+  </div>
+</div>
+{{ end }}
 {{ else }}
 <div class="suno-placeholder">
   <div class="placeholder-content">

@@ -3,6 +3,24 @@
 
 const API_BASE = 'https://jod-likes-api.ianmc.workers.dev';
 
+// Safe localStorage helpers (handle private browsing, quota errors, etc.)
+function getLikedSongs() {
+  try {
+    const data = JSON.parse(localStorage.getItem('jod-liked-songs') || '[]');
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
+function setLikedSongs(songs) {
+  try {
+    localStorage.setItem('jod-liked-songs', JSON.stringify(songs));
+  } catch {
+    // localStorage unavailable or quota exceeded, ignore
+  }
+}
+
 async function initializeLikes() {
   const likeSection = document.querySelector('.song-like-section');
   if (!likeSection) return;
@@ -12,7 +30,7 @@ async function initializeLikes() {
   const countSpan = likeSection.querySelector('.like-count');
 
   // Check if already liked (localStorage)
-  const likedSongs = JSON.parse(localStorage.getItem('jod-liked-songs') || '[]');
+  const likedSongs = getLikedSongs();
   const hasLiked = likedSongs.includes(songId);
 
   if (hasLiked) {
@@ -29,7 +47,7 @@ async function initializeLikes() {
 }
 
 async function toggleLike(songId, button, countSpan) {
-  const likedSongs = JSON.parse(localStorage.getItem('jod-liked-songs') || '[]');
+  const likedSongs = getLikedSongs();
   const hasLiked = likedSongs.includes(songId);
 
   // Optimistic UI update
@@ -56,9 +74,9 @@ async function toggleLike(songId, button, countSpan) {
 
     // Update localStorage
     if (hasLiked) {
-      localStorage.setItem('jod-liked-songs', JSON.stringify(likedSongs.filter(id => id !== songId)));
+      setLikedSongs(likedSongs.filter(id => id !== songId));
     } else {
-      localStorage.setItem('jod-liked-songs', JSON.stringify([...likedSongs, songId]));
+      setLikedSongs([...likedSongs, songId]);
     }
   } catch (err) {
     // Revert optimistic update on error
