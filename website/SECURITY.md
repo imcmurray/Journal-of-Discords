@@ -166,7 +166,7 @@ The site uses a Cloudflare Worker to handle song likes. This runs on a separate 
 | Setting | Value |
 |---------|-------|
 | Worker Name | `jod-likes-api` |
-| Worker URL | `jod-likes-api.imcmurray.workers.dev` |
+| Worker URL | `jod-likes-api.ianmc.workers.dev` |
 | KV Namespace | `SONG_LIKES` |
 | KV Binding | `LIKES` |
 
@@ -197,4 +197,4 @@ The Likes API runs on `*.workers.dev` (or a subdomain), not on `journalofdiscord
 When updating the Worker:
 1. Edit code in Cloudflare Dashboard → Workers → `jod-likes-api` → Quick Edit
 2. Or update `workers/likes-api.js` locally and paste into dashboard
-3. Test with: `curl https://jod-likes-api.imcmurray.workers.dev/api/likes`
+3. Test with: `curl https://jod-likes-api.ianmc.workers.dev/api/likes`

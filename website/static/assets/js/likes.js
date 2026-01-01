@@ -1,7 +1,7 @@
 // Song Likes System
 // Communicates with Cloudflare Worker API to track song likes
 
-const API_BASE = 'https://jod-likes-api.imcmurray.workers.dev';
+const API_BASE = 'https://jod-likes-api.ianmc.workers.dev';
 
 async function initializeLikes() {
   const likeSection = document.querySelector('.song-like-section');
