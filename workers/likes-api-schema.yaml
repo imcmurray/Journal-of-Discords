@@ -1,0 +1,164 @@
+openapi: 3.0.3
+info:
+  title: Journal of Discords Likes API
+  description: API for tracking song likes on journalofdiscords.com
+  version: 1.0.0
+servers:
+  - url: https://jod-likes-api.ianmc.workers.dev
+    description: Production Cloudflare Worker
+
+paths:
+  /api/likes:
+    get:
+      summary: Get all song like counts
+      operationId: getAllLikes
+      responses:
+        '200':
+          description: Object mapping songId to like count
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties:
+                  type: integer
+                  minimum: 0
+              example:
+                king-follett: 5
+                as-god-once-was: 3
+        '500':
+          $ref: '#/components/responses/ServerError'
+    options:
+      summary: CORS preflight
+      operationId: corsPreflightAll
+      responses:
+        '200':
+          description: CORS headers returned
+
+  /api/likes/{songId}:
+    parameters:
+      - name: songId
+        in: path
+        required: true
+        description: The song identifier (lowercase alphanumeric with hyphens)
+        schema:
+          type: string
+          pattern: '^[a-z0-9-]+$'
+          minLength: 1
+          maxLength: 100
+        examples:
+          kingFollett:
+            value: king-follett
+          asGodOnceWas:
+            value: as-god-once-was
+
+    get:
+      summary: Get like count for a specific song
+      operationId: getSongLikes
+      responses:
+        '200':
+          description: Song like count
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SongLikeResponse'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '500':
+          $ref: '#/components/responses/ServerError'
+
+    post:
+      summary: Like or unlike a song
+      operationId: toggleSongLike
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LikeAction'
+      responses:
+        '200':
+          description: Updated like count
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SongLikeResponse'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '500':
+          $ref: '#/components/responses/ServerError'
+
+    options:
+      summary: CORS preflight
+      operationId: corsPreflightSong
+      responses:
+        '200':
+          description: CORS headers returned
+
+components:
+  schemas:
+    SongLikeResponse:
+      type: object
+      required:
+        - id
+        - count
+      properties:
+        id:
+          type: string
+          pattern: '^[a-z0-9-]+$'
+          description: The song identifier
+          example: king-follett
+        count:
+          type: integer
+          minimum: 0
+          description: Current like count
+          example: 5
+
+    LikeAction:
+      type: object
+      required:
+        - action
+      properties:
+        action:
+          type: string
+          enum:
+            - like
+            - unlike
+          description: Action to perform
+      additionalProperties: false
+
+    ErrorResponse:
+      type: object
+      required:
+        - error
+      properties:
+        error:
+          type: string
+          description: Error message
+
+  responses:
+    NotFound:
+      description: Resource not found
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+          example:
+            error: Not found
+
+    ServerError:
+      description: Internal server error
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+          example:
+            error: Internal server error
+
+    Forbidden:
+      description: Request origin not allowed
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/ErrorResponse'
+          example:
+            error: Forbidden
