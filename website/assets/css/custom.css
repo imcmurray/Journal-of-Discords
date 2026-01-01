@@ -443,6 +443,50 @@ details p {
   color: #ddd6fe !important;
 }
 
+/* Like Button */
+.song-like-section {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.like-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: transparent;
+  border: 2px solid var(--primary);
+  border-radius: 8px;
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 1rem;
+  font-family: inherit;
+  transition: all 0.2s;
+}
+
+.like-button:hover {
+  transform: scale(1.05);
+}
+
+.like-button.liked {
+  background: #e74c3c;
+  border-color: #e74c3c;
+  color: white;
+}
+
+.like-button .heart-icon {
+  font-size: 1.2em;
+}
+
+.like-button.liked .heart-icon {
+  animation: heartBeat 0.3s ease-in-out;
+}
+
+@keyframes heartBeat {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .songs-grid {
