@@ -154,3 +154,47 @@ After deploying the rule, verify these return Cloudflare block pages:
 2. **Security** → **WAF** → **Custom rules**
 3. Create/edit rule
 4. Switch to **Edit expression** mode for raw syntax
+
+---
+
+## Likes API (Cloudflare Worker)
+
+The site uses a Cloudflare Worker to handle song likes. This runs on a separate domain from the main site.
+
+### Worker Details
+
+| Setting | Value |
+|---------|-------|
+| Worker Name | `jod-likes-api` |
+| Worker URL | `jod-likes-api.imcmurray.workers.dev` |
+| KV Namespace | `SONG_LIKES` |
+| KV Binding | `LIKES` |
+
+### API Endpoints
+
+| Method | Path | Description |
+|--------|------|-------------|
+| GET | `/api/likes` | Get all song like counts |
+| GET | `/api/likes/{songId}` | Get like count for a song |
+| POST | `/api/likes/{songId}` | Like or unlike a song |
+
+### Security Measures
+
+**Built into Worker code (`workers/likes-api.js`):**
+- ✅ CORS headers restrict browser requests to `journalofdiscords.com`
+- ✅ Origin/Referer header validation blocks unauthorized requests
+- ✅ Returns 403 Forbidden for requests from other domains
+
+**Additional protection (optional):**
+- Rate limiting available in Worker Settings → Rate Limiting
+
+### Why Separate from Main WAF
+
+The Likes API runs on `*.workers.dev` (or a subdomain), not on `journalofdiscords.com`. The main site's WAF rules don't apply to Workers. The Worker handles its own security through Origin validation in the code.
+
+### Maintenance
+
+When updating the Worker:
+1. Edit code in Cloudflare Dashboard → Workers → `jod-likes-api` → Quick Edit
+2. Or update `workers/likes-api.js` locally and paste into dashboard
+3. Test with: `curl https://jod-likes-api.imcmurray.workers.dev/api/likes`
