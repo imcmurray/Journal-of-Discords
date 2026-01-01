@@ -517,16 +517,35 @@ Key patterns: Failed prophecy, polygamy defense
 8. **JoD 7:290** — Flat Nose and Black Skin (BY) ★★★★ ✅ COMPLETED
 9. **JoD 25:309** — Cannot Tone Down (GQC) ★★★★ ✅ COMPLETED
 
-### Next Wave: Song Candidates for Development
-1. **JoD 5:82-86** — Prophet can override science (WW) ★★★★★
-2. **JoD 5:285-292** — Women can't enter heaven without husband (ES) ★★★★★
-3. **JoD 17:214-229** — "Oppose polygamy = damned to hell" (OP) ★★★★★
-4. **JoD 22:120-132** — Celestial marriage REQUIRED, no exceptions (GQC) ★★★★★
-5. **JoD 2:82** — Jesus was married at Cana (OH) ★★★★★
+### Second Wave: 12 Songs In Development
+
+After analyzing 21 ★★★★★ candidates against the 9 crown jewels, we identified 12 unique songs that don't duplicate existing content:
+
+| # | Title | Source | Topic | Status |
+|---|-------|--------|-------|--------|
+| 1 | Adam Is Our God | JoD 1:46-53 | Adam-God Doctrine | 🔄 In Development |
+| 2 | Blood Atonement | JoD 1:95-100 | Blood Atonement | 🔄 In Development |
+| 3 | The Bridegroom at Cana | JoD 2:82 | Jesus Married | 🔄 In Development |
+| 4 | Cut Their Throats (Amen) | JoD 2:310 | Violence | 🔄 In Development |
+| 5 | There Are Plenty More | JoD 2:14 | Polygamy (Wives as Property) | 🔄 In Development |
+| 6 | Rather Convert the Devil | JoD 2:142 | Anti-Semitism | 🔄 In Development |
+| 7 | Endless Is My Name | JoD 6:283-298 | Universal Salvation | 🔄 In Development |
+| 8 | The Prophet Over Science | JoD 5:82-86 | Science/Authority | 🔄 In Development |
+| 9 | Your Husband Is Your Lord | JoD 5:285-292 | Gender/Women | 🔄 In Development |
+| 10 | Every Act of Their Lives | JoD 10:336 | Theocracy | 🔄 In Development |
+| 11 | Jesus Had Many Wives | JoD 1:341-349 | Jesus Polygamy | 🔄 In Development |
+| 12 | Must Get Forgiveness from Brigham | JoD 1:354-358 | Authority | 🔄 In Development |
+
+**Skipped (Overlap with existing songs):**
+- Some of His Children (JoD 2:143) — Race, covered by existing songs
+- Thwarting the Almighty (JoD 3:28-37) — Race, covered
+- I Promise You'll Be Damned (JoD 3:264-268) — Same theme as "Only Men"
+- Celestial Marriage Required (JoD 22:120-132) — Same as "Only Men"
+- Damned If You Don't (JoD 17:214-229) — Same theme
 
 ### Manual Kickoff Commands
-- `"Start Second Wave"` — Develop songs from next batch of candidates
-- `"Continue Analysis Phase"` — Analyze next batch of HIGH priority sermons
+- `"Continue Second Wave"` — Resume development of second wave songs
+- `"Start Third Wave"` — Develop songs from remaining candidates
 
 ---
 

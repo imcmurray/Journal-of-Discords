@@ -144,6 +144,10 @@ Today, the LDS Church says it _"is not an authoritative source of Church doctrin
     minMatchCharLength = 0
     keys = ["title", "permalink", "summary", "content"]
 
+  # Favicon (use SVG instead of default .ico)
+  [params.assets]
+    favicon = "favicon.svg"
+
 # Output formats
 [outputs]
   home = ["HTML", "RSS", "JSON"]
