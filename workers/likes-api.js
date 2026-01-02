@@ -28,11 +28,11 @@ export default {
     const origin = request.headers.get('Origin');
     const referer = request.headers.get('Referer');
 
-    // Allow requests from our domain or no origin (direct browser navigation)
-    // Use exact match for origin, and path prefix for referer to prevent bypass
-    // e.g., journalofdiscords.com.attacker.com would fail
-    const isValidOrigin = !origin || origin === ALLOWED_ORIGIN;
-    const isValidReferer = !referer || referer.startsWith(ALLOWED_ORIGIN + '/');
+    // SECURITY: Require Origin header from browser requests
+    // This blocks curl/scripts and only allows browser requests from our site
+    // Referer is checked as fallback for edge cases where Origin may be missing
+    const isValidOrigin = origin === ALLOWED_ORIGIN;
+    const isValidReferer = referer && referer.startsWith(ALLOWED_ORIGIN + '/');
 
     if (!isValidOrigin && !isValidReferer) {
       return new Response(JSON.stringify({ error: 'Forbidden' }), {

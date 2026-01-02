@@ -239,11 +239,18 @@ The site uses a Cloudflare Worker to handle song likes. This runs on a separate 
 
 **Built into Worker code (`workers/likes-api.js`):**
 - ✅ CORS headers restrict browser requests to `journalofdiscords.com`
-- ✅ Origin/Referer header validation blocks unauthorized requests
-- ✅ Returns 403 Forbidden for requests from other domains
+- ✅ Origin header **required** (blocks curl/scripts, only allows browser requests)
+- ✅ Referer validation as fallback
+- ✅ Returns 403 Forbidden for unauthorized requests
+- ✅ Song ID regex validation (`[a-z0-9-]+`)
 
-**Additional protection (optional):**
-- Rate limiting available in Worker Settings → Rate Limiting
+**Why Origin is required:**
+Without requiring Origin, anyone could use curl or scripts to:
+- Create arbitrary KV entries (fake song IDs)
+- Hit write limits (1,000/day on free tier)
+- Potentially trigger billing overages
+
+Browsers always send the Origin header on cross-origin requests, so legitimate users are unaffected.
 
 ### Why Separate from Main WAF
 
