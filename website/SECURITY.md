@@ -157,6 +157,63 @@ After deploying the rule, verify these return Cloudflare block pages:
 
 ---
 
+## Security Headers (Transform Rules)
+
+Security headers are added via Cloudflare Transform Rules since the site is hosted on Railway (not Cloudflare Pages).
+
+### Setup Location
+
+1. Dashboard → Select domain
+2. **Rules** → **Transform Rules**
+3. Click **Modify Response Header** tab
+4. Click **+ Create rule**
+
+### Current Configuration
+
+**Rule Name:** `Security Headers`
+
+**When incoming requests match:** All incoming requests (expression: `true`)
+
+**Then... Modify response header:**
+
+| Operation | Header Name | Value |
+|-----------|-------------|-------|
+| Set static | `X-Content-Type-Options` | `nosniff` |
+| Set static | `X-Frame-Options` | `SAMEORIGIN` |
+| Set static | `X-XSS-Protection` | `1; mode=block` |
+| Set static | `Referrer-Policy` | `strict-origin-when-cross-origin` |
+
+### What Each Header Does
+
+| Header | Purpose |
+|--------|---------|
+| `X-Content-Type-Options: nosniff` | Prevents browsers from MIME-sniffing (guessing content type) |
+| `X-Frame-Options: SAMEORIGIN` | Prevents clickjacking by blocking iframe embedding from other sites |
+| `X-XSS-Protection: 1; mode=block` | Enables legacy XSS filter in older browsers |
+| `Referrer-Policy: strict-origin-when-cross-origin` | Controls how much referrer info is sent to other sites |
+
+### Verify Headers
+
+Test that headers are being applied:
+
+```bash
+curl -I https://journalofdiscords.com
+```
+
+Look for these headers in the response:
+```
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+```
+
+### Alternative: Cloudflare Pages
+
+If migrating to Cloudflare Pages, headers can be set via a `_headers` file in the static folder (already created at `static/_headers`). Cloudflare Pages reads this file automatically.
+
+---
+
 ## Likes API (Cloudflare Worker)
 
 The site uses a Cloudflare Worker to handle song likes. This runs on a separate domain from the main site.
