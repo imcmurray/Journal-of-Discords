@@ -34,60 +34,76 @@ Prophet to the pulpit, truth to speak
 Every word preserved, every promise made
 Listen close to what the prophet said
 
-[Verse 1 - Authoritative]
+[Verse 1 - Authoritative, Delivered Like Scripture]
 I know it is from God, I know it came from heaven
 I understand the bearings, I know why it was given
-As true as that God lives, I say to all the world—
+As true as that God lives, I say to all the world--
 The only men who become Gods are those with many pearls
 
-[Pre-Chorus]
+[Pre-Chorus - Building Tension]
 Polygamists, at least in your faith
 Or come short of the glory Abraham attained
 They offered you the blessing, you turned it away
 You cannot reign as kings, no matter what you pray
 
-[Chorus - Anthemic]
+[Chorus - Anthemic, Heavy]
 The only men who become Gods
 Are those who enter polygamy
-The only men who become Gods—
+The only men who become Gods--
 That's what the prophet said to me
-As true as that God lives
-This is the word of the Lord
-The only men who become Gods
-And that cannot be ignored
+Others reach a glory, might see the Father's face
+But they cannot reign as kings
+They refused and lost their place
 
-[Verse 2]
-Now what about statehood? The prophet had a view
-If we must give up polygamy, here's what we'll do:
-"If we are not admitted until then, we shall never be admitted"
-Never! Never! The prophet says committed
+[Verse 2 - Shift to Modern, Quieter, Confused Tone]
+Now a couple walks to the temple door
+Monogamous and faithful, seeking something more
+Promised exaltation, sealed for time and all
+But Brigham said they cannot--they refused the call
 
-[Bridge - Tempo shift]
-1890: The Manifesto comes
-Polygamy abandoned under federal guns
-1896: Utah joins the union
-The prophecy proven false, a theological contusion
+[Pre-Chorus - Return of Tension]
+The scripture stays, the practice goes
+One of them was wrong, heaven knows
+Either the prophet spoke the truth in sixty-six
+Or the modern promise is a cruel trick
 
-Now the church promises exaltation
-To monogamous couples, sealing salvation
-D&C 132 still sits in canon
-While the practice it commands brings excommunication
-
-[Final Chorus]
+[Chorus - Anthemic, Heavy]
 The only men who become Gods
 Are those who enter polygamy
-That's what the prophet declared
-As true as God could be
-Now every temple, every seal
-Monogamous for eternity
-Either the founding prophet lied
-Or the modern church sells fantasy
+The only men who become Gods--
+That's what the prophet said to me
+Others reach a glory, might see the Father's face
+But they cannot reign as kings
+They refused and lost their place
 
-[Outro - Quiet, devastating]
-"As true as that God lives"
-He said it with such certainty
-"The only men who become Gods"
-Now that's ancient history
+[Bridge - Dramatic, Building, Spoken-Word Style Over Music]
+"Do you think we'll be admitted without denying it?
+If we are not admitted until then--
+We shall never be admitted."
+
+(Pause, then music swells)
+
+Eighteen ninety, gave it up
+Eighteen ninety-six, statehood won
+The government came calling
+And "never" came undone
+
+[Final Chorus - Full Power, Adding Harmonies]
+The only men who become Gods
+Are those who enter polygamy
+The only men who become Gods--
+That's what the prophet said to me
+Modern couples at the altar, promised heaven's crown
+But Brigham said they cannot--
+Unless they take more vows
+
+[Outro - Fading, Haunting]
+As true as that God lives...
+As true as that God lives...
+One of them was wrong
+One of them was wrong
+
+[End]
 ```
 
 ---
