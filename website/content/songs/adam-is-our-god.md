@@ -5,7 +5,7 @@ speakers: ["Brigham Young"]
 topics: ["Adam-God Doctrine", "Theology"]
 jod_citation: "JoD 1:50"
 sermon_date: "1852-04-09"
-suno_url: ""
+suno_url: "https://suno.com/embed/a906690e-9483-46fa-9025-2de4419a26b6"
 style: "Indie folk rock, building intensity, anthemic"
 caption: "In 1852, Brigham Young declared 'Adam is our Father and our God, the only God with whom we have to do. Every man will know it sooner or later.' In 1976, the LDS Church denounced it as false doctrine. Sooner or later, every man did know — just not what Brigham expected."
 weight: 5
