@@ -132,13 +132,22 @@ should have a representation upon the earth"
 <summary><strong>Addressing Apologetic Responses</strong></summary>
 
 ### "Speaking as a man"
-Delivered as Church President at an official Stake Conference. Published in the Journal of Discourses. Used "he" referring to God's intentional action.
+Delivered as Church President at an official Stake Conference. Published in the Journal of Discourses. Taylor explicitly claimed divine authority: "God expects me to talk plainly. I have not come here to daub you with untempered mortar, but I tell you the truth" (JoD 22:312).
+
+### "Everyone was racist back then"
+This wasn't cultural prejudice — it was claiming **God designed it**. There's a vast difference between "I think Black people are inferior" (ignorance) and "God deliberately preserved the curse through the flood so the devil would have representation on earth" (divine architecture). Taylor made God the author of racism.
+
+Abolitionists existed. By 1881, the 13th Amendment was 16 years old. Quakers and many Christians had opposed slavery on theological grounds for decades. Moral clarity was available — the prophet just didn't have it.
+
+This was also MORE extreme than the culture. Calling Black people "the devil's representation on earth" wasn't standard American racism. Taylor took cultural prejudice and gave it cosmic justification.
+
+The defense proves the critique: if prophets are "products of their time," they don't transcend culture — they baptize it. So what's prophetic guidance worth?
 
 ### "Out of context"
-The full context makes it worse. Taylor is explaining WHY God preserved the curse through the flood — as divine design.
+The full context makes it worse. Taylor is explaining WHY God preserved the curse through the flood — as divine design. He asked the question himself: "And why did it pass through the flood?" Then answered: "Because it was necessary that the devil should have a representation upon the earth."
 
 ### "Church has disavowed it"
-The 2013 essay never mentions John Taylor by name or addresses this specific teaching about "devil's representation."
+The 2013 essay never mentions John Taylor by name, never quotes this teaching, and never explains how a prophet could be this catastrophically wrong while claiming to speak for God. "Theories advanced in the past" is passive voice that avoids accountability.
 
 </details>
 
