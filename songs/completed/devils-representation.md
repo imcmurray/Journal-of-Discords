@@ -23,72 +23,75 @@
 
 ```
 [Intro]
-(Slow Hammond organ, establishing somber tone)
+(Slow Hammond organ, somber)
 
 [Verse 1]
-Sunday morning, Provo Stake
+Sunday afternoon in Provo
 August, eighteen eighty-one
-The prophet stood for heaven's sake
-To teach what God had done
-He spoke of spirits before this life
-Who cried out to their Lord
-"Must we take bodies stained with strife?"
-God answered with the sword
+The prophet rose to tell them
+What their God had done
+He spoke of Noah's flood
+And why the curse survived
+"Why did it pass through the water?"
+Then the answer he supplied
 
 [Chorus]
 The devil needs representation
-God designed it so, the prophet said
-One chosen race, one darker nation
-The curse of Cain preserved through Ham's own bed
-"Why did it pass through the flood?" he asked
-Then gave an answer cold
-The devil needs representation
 That's what the prophet told
+God designed it, God required it
+A people bought and sold
+The curse of Cain through Ham's own wife
+Preserved by heaven's hand
+The devil needs representation
+So sayeth the promised land
 
 [Verse 2]
-Not whispered in a quiet room
-Not theory, not debate
-But doctrine from that August noon
-Published, sealed by fate
-"It was necessary," his sermon read
-"That the devil have his own"
-A race marked out from all who bled
-A people born alone
+"It was necessary," said the prophet
+Speaking plain and speaking clear
+Not whispered, not in private
+But for every soul to hear
+Published in the Journal
+For the faithful to receive
+The devil needs his people
+That's what you're supposed to believe
 
 [Chorus]
 The devil needs representation
-God designed it so, the prophet said
-One chosen race, one darker nation
-The curse of Cain preserved through Ham's own bed
-"Why did it pass through the flood?" he asked
-Then gave an answer cold
-The devil needs representation
 That's what the prophet told
+God designed it, God required it
+A people bought and sold
+The curse of Cain through Ham's own wife
+Preserved by heaven's hand
+The devil needs representation
+So sayeth the promised land
 
 [Bridge]
-(Tempo slows, choir enters softly)
-Now the essay says they disavow
-The theories taught back then
-But won't name the prophet, won't say how
-He spoke for God to men
-"We unequivocally condemn all hate"
-The modern statements read
-But the devil's representation still can't escape
-The wound that silence feeds
+(Tempo slows, choir enters soft)
+Two thousand thirteen
+An essay finally came
+"We disavow the theories"
+But they never spoke his name
+The devil's representation
+Now just "theories of the past"
+But for ninety-seven years
+Those theories held fast
 
 [Final Chorus]
 (Full choir, organ swelling)
 The devil had representation
 For ninety-seven years they bore the ban
-One chosen race, one fallen nation
-No priesthood, temple, promised land
+No priesthood, no temple, no promised land
+That's what they told the children of God
 "Why did it last so long?" we ask
 The prophets never told
-The devil had representation
-But who gave the devil control?
+God's children called the devil's own
+By the man who claimed to speak for God
 
 [Outro]
-(Organ solo, fading to silence)
+(Organ fading, spoken)
+"Because it was necessary that the devil
+should have a representation upon the earth"
+(Silence)
 ```
 
 ---
@@ -121,30 +124,35 @@ But who gave the devil control?
 
 | Lyric | Source | Type |
 |-------|--------|------|
-| "Sunday morning, Provo Stake / August, eighteen eighty-one" | JoD 22:297 (sermon header) | Historical fact |
-| "The prophet stood for heaven's sake / To teach what God had done" | JoD 22:297 (John Taylor, Church President) | Inference from authority |
-| "He spoke of spirits before this life / Who cried out to their Lord" | JoD 22:303 | Paraphrase |
-| "'Must we take bodies stained with strife?'" | JoD 22:303 ("corrupt bodies") | Paraphrase |
-| "God answered with the sword" | JoD 22:303 (flood theology) | Inference |
+| "Sunday afternoon in Provo / August, eighteen eighty-one" | JoD 22:297 (sermon header: "Sunday afternoon") | Historical fact |
+| "The prophet rose to tell them / What their God had done" | JoD 22:297 (John Taylor, Church President) | Inference from authority |
+| "He spoke of Noah's flood / And why the curse survived" | JoD 22:303-304 | Paraphrase |
+| "'Why did it pass through the water?'" | JoD 22:304 ("And why did it pass through the flood?") | Paraphrase of exact quote |
+| "Then the answer he supplied" | — | Original |
 | "The devil needs representation" | JoD 22:304 ("the devil should have a representation upon the earth") | Direct paraphrase |
-| "God designed it so, the prophet said" | JoD 22:304 ("it was necessary") | Paraphrase |
-| "One chosen race, one darker nation" | JoD 22:304 ("that seed") | Inference |
-| "The curse of Cain preserved through Ham's own bed" | JoD 22:304 ("the curse...was continued through Ham's wife, as he had married a wife of that seed") | Direct paraphrase |
-| "'Why did it pass through the flood?' he asked" | JoD 22:304 | Exact quote |
-| "Then gave an answer cold" | — | Original |
 | "That's what the prophet told" | — | Original |
-| "Not whispered in a quiet room / Not theory, not debate" | JoD 22:297 (Conference setting) | Inference |
-| "But doctrine from that August noon / Published, sealed by fate" | JoD 22:297 (published in JoD) | Historical fact |
-| "'It was necessary,' his sermon read" | JoD 22:304 | Exact quote |
-| "'That the devil have his own'" | JoD 22:304 | Paraphrase |
-| "A race marked out from all who bled / A people born alone" | JoD 22:304 | Inference |
-| "Now the essay says they disavow / The theories taught back then" | 2013 Gospel Topics Essay | External source |
-| "But won't name the prophet, won't say how / He spoke for God to men" | Analysis of 2013 essay (passive voice) | Analysis |
-| "'We unequivocally condemn all hate'" | 2013 Gospel Topics Essay | Paraphrase |
-| "The wound that silence feeds" | — | Original |
+| "God designed it, God required it" | JoD 22:304 ("it was necessary") | Paraphrase |
+| "A people bought and sold" | — | Original (poetic) |
+| "The curse of Cain through Ham's own wife" | JoD 22:304 ("the curse...was continued through Ham's wife") | Direct paraphrase |
+| "Preserved by heaven's hand" | JoD 22:304 ("it was necessary") | Inference |
+| "So sayeth the promised land" | — | Original |
+| "'It was necessary,' said the prophet" | JoD 22:304 | Exact quote |
+| "Speaking plain and speaking clear" | JoD 22:312 ("God expects me to talk plainly") | Paraphrase |
+| "Not whispered, not in private / But for every soul to hear" | JoD 22:297 (Conference setting) | Inference |
+| "Published in the Journal / For the faithful to receive" | JoD 22:297 (published in JoD) | Historical fact |
+| "The devil needs his people" | JoD 22:304 | Paraphrase |
+| "That's what you're supposed to believe" | — | Original |
+| "Two thousand thirteen / An essay finally came" | 2013 Gospel Topics Essay | Historical fact |
+| "'We disavow the theories'" | 2013 Gospel Topics Essay | Exact quote |
+| "But they never spoke his name" | Analysis of 2013 essay (passive voice) | Analysis |
+| "Now just 'theories of the past'" | 2013 Gospel Topics Essay | Paraphrase |
+| "For ninety-seven years / Those theories held fast" | Historical fact (1881-1978) | Historical fact |
 | "For ninety-seven years they bore the ban" | Historical fact (1881-1978) | Historical fact |
-| "No priesthood, temple, promised land" | Historical fact (priesthood/temple ban) | Historical fact |
-| "Who gave the devil control?" | JoD 22:304 (rhetorical counter-question) | Original |
+| "No priesthood, no temple, no promised land" | Historical fact (priesthood/temple ban) | Historical fact |
+| "That's what they told the children of God" | — | Original |
+| "God's children called the devil's own" | JoD 22:304 (rhetorical reversal) | Original |
+| "By the man who claimed to speak for God" | JoD 22:312 ("God expects me to talk plainly") | Inference |
+| "Because it was necessary that the devil should have a representation upon the earth" | JoD 22:304 | Exact quote |
 
 ---
 
@@ -342,12 +350,12 @@ This song presents John Taylor's 1881 teaching in his own words, with minimal ed
 
 ### Style Tags
 ```
-dark gospel, spiritual blues, somber hymn, slow tempo, Hammond B3 organ, deep male voice, choir backing, reverent, mournful
+dark gospel, southern spiritual, slow blues hymn, Hammond B3 organ, deep baritone vocals, choir backing, mournful, protest song, minor key, 70bpm, raw emotional delivery
 ```
 
 ### Caption
 ```
-In 1881, LDS Church President John Taylor taught that God deliberately preserved the "curse of Cain" through Noah's flood so "the devil should have a representation upon the earth." Based on Journal of Discourses 22:304. Letting the prophets speak for themselves.
+In 1881, LDS Church President John Taylor explained why God preserved the "curse of Cain" through Noah's flood: "Because it was necessary that the devil should have a representation upon the earth." In 2013, the Church quietly disavowed these "theories" - without naming the prophet who taught them. Source: Journal of Discourses 22:304.
 ```
 
 ### Image Prompts
