@@ -25,8 +25,7 @@ Disavowal: Spencer W. Kimball, Church News (October 9, 1976)
 ## FINAL LYRICS
 
 ```
-[Intro]
-(Acoustic guitar, sparse, building)
+[Intro - Acoustic guitar, sparse, building]
 
 [Verse 1]
 April, eighteen fifty-two
@@ -40,8 +39,7 @@ He came with a celestial body
 Brought Eve, one of his wives, with him
 Michael, the Archangel, Ancient of Days"
 
-[Chorus]
-(Building intensity)
+[Chorus - Building intensity]
 Adam is our Father
 Adam is our God
 The only God with whom we have to do
@@ -61,27 +59,24 @@ The only God with whom we have to do
 Sooner or later, sooner or later
 Every man will know it's true
 
-[Bridge]
-(Pulls back, then builds)
+[Bridge - Pulls back, then builds]
 One hundred twenty years go by
 Nineteen seventy-six arrives
 President Kimball takes the stand
 "We denounce that theory"
 That's the church's final word
 
-[Final Chorus]
-(Full, then pulling back)
+[Final Chorus - Full, then pulling back]
 Adam was our Father
 Adam was our God
 The only God with whom we had to do
 Sooner or later, sooner or later
 Every man will know it wasn't true
 
-[Outro]
-(Fading, acoustic only)
+[Outro - Fading, acoustic only]
 "Sooner or later..."
 "Sooner or later..."
-(Silence)
+[Silence]
 ```
 
 ---
@@ -386,7 +381,7 @@ indie folk rock, acoustic guitar, building intensity, male vocals, anthemic, cin
 ### Caption
 
 ```
-In 1852, Brigham Young declared "Adam is our Father and our God, the only God with whom we have to do. Every man will know it sooner or later." In 1976, the LDS Church denounced it as false doctrine. Sooner or later, every man did know — just not what Brigham expected. Source: JoD 1:50.
+In 1852, LDS Prophet Brigham Young declared "Adam is our Father and our God, the only God with whom we have to do. Every man will know it sooner or later." In 1976, the Church denounced it as false doctrine. Sooner or later, every man did know! Source: JoD 1:50.
 ```
 
 ### Image Prompts
