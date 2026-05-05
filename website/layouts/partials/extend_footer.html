@@ -16,10 +16,17 @@
       Documenting what was taught—in the prophets' own words—so history is not quietly revised away.
     </p>
 
-    <!-- Copyright and Links -->
+    {{- with site.Params.legal }}
+    <div class="footer-legal">
+      <p class="footer-not-affiliated">{{ .notAffiliated | markdownify }}</p>
+      <p class="footer-copyright">
+        &copy; {{ .copyrightYear }}{{ if gt now.Year (int .copyrightYear) }}&ndash;{{ now.Year }}{{ end }} {{ .ownerName }}. All original commentary, analysis, recordings, and site content are protected by copyright.
+      </p>
+    </div>
+    {{- end }}
+
+    <!-- Links -->
     <div class="footer-bottom">
-      <span>© {{ now.Year }} Journal of Discords</span>
-      <span class="separator">•</span>
       <a href="https://github.com/imcmurray/Journal-of-Discords" target="_blank" rel="noopener">GitHub</a>
     </div>
 
@@ -168,7 +175,8 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
   banner.className = 'content-warning';
   banner.innerHTML = `
     <div class="content-warning-text">
-      <strong>Content Warning:</strong> This site presents historical teachings from early LDS prophets containing racist and sexist language, including statements about race, polygamy, and theology that are deeply harmful by modern standards. These include racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for educational purposes and historical accountability only—we do not endorse them. We recognize this content may be painful, especially for those whose families were affected. Reader discretion is strongly advised.
+      <p><strong>Content Warning:</strong> This site presents historical teachings from early LDS prophets containing racist and sexist language, including statements about race, polygamy, and theology that are deeply harmful by modern standards. These include racist teachings that caused real harm to Black Latter-day Saints for over a century. These views are presented for educational purposes and historical accountability only—we do not endorse them. We recognize this content may be painful, especially for those whose families were affected. Reader discretion is strongly advised.</p>
+      <p><strong>Independent project:</strong> Journal of Discords is <strong>not affiliated with, endorsed by, or connected to</strong> The Church of Jesus Christ of Latter-day Saints, Brigham Young University, or any related organization. <a href="/terms/">Learn more &rarr;</a></p>
     </div>
     <button class="content-warning-dismiss">I Understand</button>
   `;

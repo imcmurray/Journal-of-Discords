@@ -24,8 +24,25 @@
   line-height: 1.5;
 }
 
+.content-warning-text p {
+  margin: 0 0 0.6rem 0;
+}
+
+.content-warning-text p:last-child {
+  margin-bottom: 0;
+}
+
 .content-warning-text strong {
   color: #fff;
+}
+
+.content-warning-text a {
+  color: #fde68a;
+  text-decoration: underline;
+}
+
+.content-warning-text a:hover {
+  color: #fef3c7;
 }
 
 .content-warning-dismiss {
@@ -54,7 +71,7 @@
 
 /* Push body content down when banner is visible */
 body.has-warning {
-  padding-top: 80px;
+  padding-top: 180px;
 }
 
 @media (max-width: 768px) {
@@ -74,8 +91,42 @@ body.has-warning {
   }
 
   body.has-warning {
-    padding-top: 160px;
+    padding-top: 320px;
   }
+}
+
+/* Footer legal block (not-affiliated + copyright) */
+.footer-legal {
+  color: var(--secondary);
+  font-size: 0.85rem;
+  line-height: 1.55;
+  margin: 0 auto 1.25rem;
+  max-width: 720px;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--theme);
+  text-align: left;
+}
+
+.footer-legal p {
+  margin: 0;
+}
+
+.footer-not-affiliated {
+  margin-bottom: 0.5rem !important;
+}
+
+.footer-not-affiliated strong {
+  color: var(--primary);
+}
+
+.footer-copyright {
+  color: var(--secondary);
+}
+
+html[data-theme="dark"] .footer-legal {
+  background: rgba(255, 255, 255, 0.03);
 }
 
 /* Suno Player Embed */

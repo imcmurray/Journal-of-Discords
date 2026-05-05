@@ -22,6 +22,14 @@ Our primary sources include:
 
 ---
 
+## Copyright (Original Content)
+
+All original music, arrangements, recordings, lyrics-as-arranged, commentary, analysis, essays, site design, and source code on this site are **&copy; 2026 Journal of Discords. All rights reserved.**
+
+The public-domain status of the Journal of Discourses applies only to the historical sermons themselves. It does not extend to the original creative and analytical work that surrounds, arranges, and comments on those sources. Reuse of original material requires permission.
+
+---
+
 ## Fair Use
 
 Original commentary, analysis, and creative works on this site constitute fair use under 17 U.S.C. § 107. This includes:
@@ -75,4 +83,4 @@ For corrections, questions, or concerns about this project, please open an issue
 
 ---
 
-*Last updated: December 2024*
+*Last updated: May 2026*
